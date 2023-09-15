@@ -1,0 +1,2 @@
+Why are there tags or flakes on my prints?
+Extra cured material is caused by light scattering. Light scattering is an effect created when an obstacle is partially blocking the light from reaching its destination. This is caused by a dirty basin glass and/or a damaged build tray.

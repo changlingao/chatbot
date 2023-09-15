@@ -1,0 +1,2 @@
+Category is Resins. SuperWAX handling using overnight printer heater (easier way).
+Go to Settings>Temperature on your printer, turn on the heater independent of the printing process. Use the Controller slider to turn on the heater and fan, after setting the target temperature to warm the resin. Run this overnight before you print. It may take 10 hours to melt the resin. For the SuperWAX, add a scale of around 2% to compensate for the shrinkage in postcuring.

@@ -1,0 +1,8 @@
+Category is uncategorised. General questions about resin problems.
+1. Which material are you using?
+2. Which material INI file are you using?
+3. Is Composer the latest version?
+4. Is Firmware the latest version?
+5. Can you send us a picture/video of your problem by opening a ticket?
+8. Please export the Debuglog, Errorlog and Printer.ini (Printers Web Interface> System Information)
+9. Please export the print you are trying to print, by clicking File> Export Build

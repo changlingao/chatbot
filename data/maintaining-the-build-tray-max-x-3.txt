@@ -1,0 +1,2 @@
+MAX and MAX X Cleaning the build tray
+To ensure your build tray works for its intended lifecycle, please refer to the following video when you have a print failure: https://player.vimeo.com/video/736708907. Print failures can cause debris in the build tray. This debris can puncture the tray causing a resin spill.

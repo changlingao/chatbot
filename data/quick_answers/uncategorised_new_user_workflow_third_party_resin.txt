@@ -1,0 +1,2 @@
+Category is uncategorised. New User workflow using third-party resins. 
+If you're using third-party resins, you can download the material.ini files (material settings) from the Asiga material library: https://myaccount.asiga.com/accounts/#tab_material

@@ -1,0 +1,7 @@
+Network troubleshooting for MAX X when printer is not detected in Composer 
+If the printer is connected to the network but not showing up in Composer, check that Composer is connected to the same network as your printer.
+When you favourite (star) a printer, Composer remembers the IP Address. If the IP Address has changed, that connection can be lost.
+1. Unfavourite the printer by clicking on the yellow star.
+2. Refresh the Build Properties window.
+3. The printer should be visible now.
+If you are still experiencing technical difficulties, please launch a support ticket using the following link: https://myaccount.asiga.com/accounts/support/0/

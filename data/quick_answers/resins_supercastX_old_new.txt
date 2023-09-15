@@ -1,0 +1,3 @@
+Category is Resins. Supercast X old and new.
+There are different material files depending on the expiry date of the resin. You should use the right material file to get the best results with your resin. If the Supercast X resin has Expiry: 2023/07 or earlier, use the material file labelled Supercast X old. If it is from 2023/08 or later, please use the material file Supercast X.
+The files are available from here: https://myaccount.asiga.com/accounts/resources/Materials/Asiga/385%20nm/

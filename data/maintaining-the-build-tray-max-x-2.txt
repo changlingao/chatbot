@@ -1,0 +1,2 @@
+Why do build trays expire? 
+Asiga build trays are built with a flexible membrane to house resin during the printing process. This membrane is subject to wear & tear during the printing process and stretches over time. If the build tray becomes damaged, it may cause a resin spill or worse – damage to your printer. To prevent unwanted spills or damage, Asiga programs the build trays to stop working when their intended lifecycle has been reached.

@@ -1,0 +1,8 @@
+﻿Category is Encoders. Faulty encoders.
+1. Temporarily swap the two rear encoders plugged into the board.
+2. Check whether the side of encoder that is not working responds when plugged into the other position on the encoder board.
+3. Perform the calibration as a way of checking the encoder.
+4. If the back right encoder 2 responds when plugged into the other receptacle 3, then the issue would be the board, not the encoder.
+5. However, if the back right encoder does not respond regardless of which receptacle it is plugged into, then the issue will be the encoder, not the board.
+
+If the board/encoder is broken please send a further inquiry.

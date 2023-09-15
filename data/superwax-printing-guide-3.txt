@@ -1,0 +1,6 @@
+SuperWAX printing guide general CAD rules 
+1. Avoid thin wire structures, these will be too brittle during post processing. SuperCAST HD or X are better suited for these kinds of structures.
+2. Use the smallest supports possible, as removal of supports may damage your part.
+3. Use a shadow baseplate where possible, for easy removal of parts from build platform.
+4. Add as much of final spruing to your CAD design to minimize contact of delicate parts with hot wax needle. 
+Turning the parts 45 degrees around Z hides artifacts from rasterization better. This will result in improved surface quality (https://support.asiga.com/wp-content/uploads/2022/08/45_angle_ring.png).

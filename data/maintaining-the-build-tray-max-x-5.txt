@@ -1,0 +1,5 @@
+Build tray lifetime monitoring. How do you know when a build tray is about to expire?
+Each time a new print is submitted, the printer will automatically read the RFID tag on the tray. You can check the usage and other information of your current tray by following these steps:
+1. Select System from the Main Menu (https://support.asiga.com/wp-content/uploads/2022/08/Main-Menu-System.jpg)
+2. Select Tray Data (https://support.asiga.com/wp-content/uploads/2022/08/System-TrayData.jpg)
+When the build trage usage reaches 100%, the tray will automatically stop working. (https://support.asiga.com/wp-content/uploads/2022/08/Tray-data.jpg)

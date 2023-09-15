@@ -1,0 +1,2 @@
+Delamination due to low material level
+As the printer runs through the print cycle, it will attempt to squeeze the material to the requested layer thickness. If there is not enough material in the tray, the printer will squeeze air instead. This can cause delamination & significantly higher than expected printing times. Asiga recommends filling up the build tray at least 75% or up to the the fill level prior to starting a print.

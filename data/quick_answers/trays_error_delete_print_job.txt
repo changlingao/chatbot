@@ -1,0 +1,2 @@
+Category is Trays. Tray error and delete print job.
+Tray error can happen when the job was submitted to the printer with the other tray in place (may be a different tray type). Please delete the print job, and use the right tray, then resubmit the print job from the composer. To delete the print job, use the web interface. Open Composer>New Build>your target printer>blue globe icon in the top right corner, a web browser will open>the red X to delete the print job.

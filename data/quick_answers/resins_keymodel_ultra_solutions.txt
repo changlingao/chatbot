@@ -1,0 +1,2 @@
+Category is Resins. Keymodel Ultra solutions
+You can try increasing the exposure times and see if this is a permanent solution that works for you. Otherwise, it's recommended to place the model onto supports and print with a shadow base plate, which will help with potential detachment issues of the entire model.

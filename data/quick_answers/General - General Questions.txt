@@ -1,0 +1,11 @@
+﻿Category is General. General questions when trying to troubleshoot problems.
+1. Which material and batch number are you using?
+2. Which INI File are you using?
+3. Is Composer and Firmware at latest version?
+6. What material changed in between printings?
+7. Export and attach the Debuglog, Errorlog and Printer.ini
+* go to the web interface of the printer
+* then go to system information tab
+* then save the Debuglog
+* do the same for the Buildlog, Errorlog and printer.ini
+8. Export and attach the print you are trying to print

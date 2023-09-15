@@ -1,0 +1,13 @@
+﻿Category is General. How to add a material ini file
+To import a new material ini file:
+1. Make a folder on your desktop or document folder and put the material ini file in there. This folder can be used for multiple ini files. 
+2. Add the folder to the list of locations composer looks for ini files by doing the following steps
+3. Open Composer and click on new. 
+4. Click on the gear icon on the right hand side. 
+5. Select preferences, and the tab Materials will open. 
+6. Press the + symbol to navigate to the folder which will add it to the list. Click select folder, then ok.
+
+You will then find that you can select it under the materials tab.
+
+Note: If you are trying to use a resin that is for a 405nm projector on a 385nm printer, then it may not show up or it may be greyed out unless you select a 405nm printer to print with.
+

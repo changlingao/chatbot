@@ -1,0 +1,3 @@
+Category is trays. Check print jobs. 
+For us to see how your print jobs are set up, please load the supported part in Composer, then go to File> Export Build, you will have a zip file you can attach to the ticket, then we can offer more specific advice about setting up the part to avoid any tray damage in the future.
+Please check the link provided on steps to maintain and clean build tray. https://www.asiga.com/accounts/resources/PRO%204K/5%20-%20Maintenance/How%20To%20Clean%20Build%20Tray.movie

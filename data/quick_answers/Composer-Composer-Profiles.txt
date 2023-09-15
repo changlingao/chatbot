@@ -1,0 +1,15 @@
+Category is Composer. Setting up Composer Profiles.
+When Composer is installed on a PC, its accessible for all users.
+Therefore for the setup profile to be the same for all users, its necessary to specify a common profile when starting composer.
+
+If you would like to configure Composer to use a common profile folder for all users in the computer, please use the command line option --profile=c:/users/public/Composer
+
+You can move your current profile using --profile-reset=dir
+
+If you run Composer as the first user with --profile-reset=c:/users/public/Composer
+it should save all settings into that folder.
+
+Then all users can use --profile=c:/users/public/Composer
+
+
+

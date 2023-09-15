@@ -1,0 +1,3 @@
+Category is trays. Tray marks.
+Marks on the tray may be due the setup and orientation of parts to be printed. 
+If there is a detachment of part of the print, it can cause a mark when printing pushes the debris into the film or a hole. The dimples in the tray can be formed due to the suction-geometry of parts. The geometry can act as a plumber tool, which can leave dimples in the tray. Sometimes this can be reduced by changing the orientation of the parts being printed.

@@ -1,0 +1,3 @@
+﻿Category is General. How to focus an image from the projector.
+To check the projector output, please remove the tray and platform, and go in the menu to Maintenance > Focus. Wear the orange glasses, and use the focus plate accessory to show the image. 
+It can also be useful to see 'stuck on' pixels to check in  Maintenance > Service > LED > Radiometer.

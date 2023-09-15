@@ -1,0 +1,8 @@
+Category is General. How to do proper calibration.
+1. Set the Limit Position to 84.5, so the Zero Position automatically becomes 84mm.
+2. Re-do the bottom limit calibration and then the zero position. Adjust with caution to avoid damage to the z-stage or the glass. 
+3. Remove the tray from the printer and raise the platform to the top, Maintenance > Sensors > Status > Home. 
+4. Go to Maintenance> Service> Bottom Limit, and move the platform down until you reach approximately -84.5. 
+5. Once that is done, do the zero position calibration as usual. Now the platform should show -84mm when you move it all the way down.
+
+

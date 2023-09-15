@@ -1,0 +1,2 @@
+The category is uncategorised. Print bottom sagging due to insufficient support.
+If you don't place enough support underneath a model with a large cross section, the layers will sag down. 

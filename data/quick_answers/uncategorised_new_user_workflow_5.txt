@@ -1,0 +1,3 @@
+Category is uncategorised. New User workflow. Step five is filling resins. 
+Fill enough resin into the build tray, at least to the Resin Level indicator in the build tray, and ensure the resin is well mixed before starting a new print: https://support.asiga.com/starting-a-print-pro-4k/#stirring-material
+Then you can then set up and submit the print job from Composer.

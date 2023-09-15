@@ -1,0 +1,3 @@
+Category is trays. Tray cleaning.
+If you are always ensuring the tray is cleaned, and the platform is parallel to the glass, it will help to avoid the Approach Fail message. Cleaning the tray is important after a misprint.
+It is necessary to clean any resin from the glass, use IPA, and a soft cloth, and then use window cleaner to remove any streaks. If the tray has a hole, you will need to use a new tray to continue printing.

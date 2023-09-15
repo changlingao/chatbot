@@ -1,0 +1,6 @@
+Approach failed due to trapped volume or suction cup
+Some part geometries can cause trapped volume. Trapped volume are cavities inside the model that trap air and resin. This can lead to multiple consequences like visible lines on the model or higher printing times. Common causes and their solutions are:
+- Orientation of the model. Hollow models that are printed flat will cause trapped volume. Try rotating the model 90°. See the following image https://support.asiga.com/wp-content/uploads/2022/08/Dental-model-orientation.jpg
+- Drain holes. Adding drain holes will allow the resin to flow freely. Try the cut & punch tool in your favourite CAD program. See the following image https://support.asiga.com/wp-content/uploads/2022/08/Drain-holes.jpg
+- Supports. Placing supports on models will avoid needing drain holes but still allow the resin to flow freely. See the following image https://support.asiga.com/wp-content/uploads/2022/08/max-supports.jpg
+If you are still experiencing technical difficulties, please launch a support ticket using the following link: https://myaccount.asiga.com/accounts/support/0/

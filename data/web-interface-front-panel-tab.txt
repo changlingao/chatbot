@@ -1,0 +1,2 @@
+Web interface front panel tab
+The front panel allows you to view in real time what your printer is doing. It can also act as a remote control allowing you to control the printer from the comfort of your desk.

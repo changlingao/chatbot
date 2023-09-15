@@ -1,0 +1,2 @@
+Category is uncategorised. Print took a long time due to mechanical issues.
+If a print takes much longer than the estimated time, it could be due to an incorrect build platform calibration, debris in the build tray or hollow models with trapped volume, so it takes extra time with each and every layer to print.

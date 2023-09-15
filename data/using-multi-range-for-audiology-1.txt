@@ -1,0 +1,2 @@
+What is Multi Range? 
+Multi Range allows users to select different layer thicknesses or change advanced parameters throughout a build using print ranges. Using multi-range for audiology requires Composer 1.3.2 and firmware 2020-07-14 or later.

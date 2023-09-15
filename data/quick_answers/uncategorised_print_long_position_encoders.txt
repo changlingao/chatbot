@@ -1,0 +1,2 @@
+Category is uncategorised. Print took a long time due to issues with position encoders.
+The position encoders might have an issue, which means there might already be problems when doing the build platform calibration, when it gets to the "Auto Detect". The auto detect usually takes 10-15 seconds, if it takes way longer than that, then there could be an issue with the encoder calibration. We will be able to see in the printer.ini if the encoder calibration is off.

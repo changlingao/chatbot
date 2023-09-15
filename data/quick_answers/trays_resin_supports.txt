@@ -1,0 +1,2 @@
+Category is trays. Tray resin and supports.
+It is important to allow resin to flow, and to avoid trapped volume when printing. Use supports or drain holes on prints to prevent an enclosed loop and allow resin to flow well during printing and avoid pressure build up. When using supports, be sure to use a baseplate.

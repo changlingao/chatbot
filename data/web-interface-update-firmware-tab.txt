@@ -1,0 +1,4 @@
+Web interface update firmware tab 
+1. To update the firmware, please click https://myaccount.asiga.com/accounts/firmware/ to download the latest version for your printer.
+2. In the 'Update Firmware' tab, click "choose file" and navigate to the downloaded file.
+3. When finished uploading, your printer will automatically restart with your new firmware successfully installed.

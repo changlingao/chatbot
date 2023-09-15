@@ -1,0 +1,2 @@
+Delamination due to insufficient supports
+When placing supports, it is important to support the critical areas such as overhangs. An unsupported overhang may cause a print failure. To check the supports, use the clipping tool to find unsupported or floating layers (https://support.asiga.com/wp-content/uploads/2022/08/Clipping-tool.gif). Always refer to the ‘self support angle’ in the support generation dialogue if you are unsure about an overhang requiring supports (https://support.asiga.com/wp-content/uploads/2022/08/Support-Dialogue.jpg).

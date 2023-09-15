@@ -1,0 +1,2 @@
+﻿Category is General. Parts of the model detached during printing.
+It could be related to the supports or the model, please follow through to customer support and let us know which resin you're using. Please also send us the fully supported build file (if any supports have been used) and attach it to the ticket. The best way would be to load the (fully supported) models into Composer, click File> Export Build, this will create a ZIP file, please then attach the ZIP file into this ticket.

@@ -1,0 +1,2 @@
+Category is Resins. SuperWAX handling and printer temperature.
+Although the printer allows for a target temperature of 50 C in the software, it is normal for the printer to only reach about 35 C - 40 C. For the purpose of printing with the SuperWAX, it is only necessary for the printer to maintain the temperature at 32 C - 35 C. Do not microwave the tray to melt the wax, it will damage the RFID tag. Furthermore, the tray should not be subjected to high temperatures, as it can melt.

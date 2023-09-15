@@ -1,0 +1,2 @@
+Category is Resins. Third party resin without material file.
+If you use a third party resin but don't have the right material file for this material, then it will be trial and error to get the right print parameters. The dimensions might not be accurate as there wouldn't be parameters for the XY compensation, which compensates for any shrinkage or growth of the resin. 

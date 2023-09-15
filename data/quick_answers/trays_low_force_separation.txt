@@ -1,0 +1,2 @@
+Category is Trays. Low force trays separation.
+The Separation Forces are a lot less on low force trays, but the films are more fragile so please handle them with greater care. When possible, use Separation Acceleration of 0.1 to make the separation even more gentle. The films work very well with Fast Print and Separation Detection, as the Separation takes place much earlier than on regular films.

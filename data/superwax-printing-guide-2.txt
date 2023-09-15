@@ -1,0 +1,6 @@
+SuperWAX printing guide setup 
+Place the bottle in a tub of hot water (70°C) to liquify the resin for 10 minutes. Check state by shaking the bottle. If the material is still hard, return it to the tub. Be careful when opening the bottle as there might be a solid piece stuck to the cap. Do not apply more than 90°C to heat up the material as this will damage the bottle. Make sure all the resin inside the bottle is fully liquid before pouring into tray (you will hear a knocking sound of lumps when shaking the bottle after heating). 
+If the resin is left in the tray and allowed to cool down, it will look like a powdery solid. Ensure the resin is fully liquid before starting a print or it will fail. 
+The build tray can withstand temperatures up to 50°C (122°F). Anything higher will warp it and is best avoided. If you leave the tray in the oven for 40-50 minutes and stir regularly, the wax will turn liquid. Ensure the ambient temperature is a constant 20-22°C (72°F). The internal printer temperature settings should be set to 30°C (86°F).
+
+** It is important to note that the temperatures should not fluctuate too much, or it will impact your print results! **
