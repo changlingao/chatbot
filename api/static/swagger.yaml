@@ -1,0 +1,82 @@
+openapi: 3.0.3
+info:
+  title: Asiga DB Access API
+  description: |-
+    WIP
+  version: 0.0.1
+servers:
+  - url: https://
+tags:
+  - name: chats
+    description: chat history retrieval
+paths:
+  /chats/{oid}:
+    get:
+      tags:
+        - chats
+      summary: Retrieve chat history with the same id
+      description: Retrieve single chat history
+      parameters:
+        - name: oid
+          in: path
+          description: ID of chat history to return
+          required: true
+          schema:
+            type: string
+            format: string
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/chats'          
+        '400':
+          description: Parameters missing
+        '404':
+          description: objectID not found
+  /chats:
+    get:
+      tags:
+        - chats
+      summary: Retrieve ALL chat messages from the database
+      responses:
+        '200':
+          description: successful operation
+components:
+  schemas:
+    chats:
+      type: object
+      properties:
+        id:
+          type: string
+        summary:
+          type: string
+        date:
+          type: string
+          format: date-time
+        chat_history:
+          type: array
+          items:
+            $ref: '#/components/schemas/chat'
+    chat:
+      type: object
+      properties:
+        q_time:
+          type: string
+          format: date-time
+        question:
+          type: string
+        answer:
+          type: string
+        a_time:
+          type: string
+          format: date-time
+        sources:
+          type: array
+          items:
+            type: string
+          minItems: 3
+          maxItems: 3
+      
+        
