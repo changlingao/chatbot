@@ -1,0 +1,2 @@
+Category is PRO4K. Printer won't turn on troubleshooting 2
+If the printer is turning on with the heater plugged in, and the projector unplugged, go to Settings> Temperature, and manually turn on the heaters. NB serial will show as zeros if projector power is unplugged, this is normal. This will help to check if the power supply can work well to run the heaters when they are drawing power.

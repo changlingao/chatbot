@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Asiga Support Chatbot Expanded{% endblock %}
+{% block head %}
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<div class="expanded-chatbot">
+    <header>
+        <h2>Asiga Support Chatbot</h2>
+    </header>
+    <ul class="chatbox">
+        <li class="chat incoming">
+            <span class="material-symbols-outlined">smart_toy</span>
+            <p>Hi there 👋 I'm Alex<br>How can I help you today?</p>
+        </li>
+    </ul>
+</div>
+
+<div class="chat-input">
+    <textarea placeholder="Enter a message..." spellcheck="false" required></textarea>
+    <div class="icons-container">
+        <span id="expanded-chat-send" class="send-btn material-symbols-rounded">send</span>
+        <span id="terminate" class="terminate-btn material-symbols-outlined">close</span>
+    </div>
+</div>
+{% endblock %}

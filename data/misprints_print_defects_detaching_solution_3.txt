@@ -1,0 +1,4 @@
+Category is Misprints & Print Defects. Prints detaching solution step 3. 
+Step 3: Set the Zero Position Calibration and validate the calibration with a piece of paper:
+Max-https://support.asiga.com/maintenance-schedule-max/#platform-validation
+4K-https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation

@@ -1,0 +1,3 @@
+Part setup for dentistry DentaGUM and DentaIBT design tips
+- When designing, it is best to have a flat plain so the part can sit directly on the build platform.
+- Always use the appropriate design settings, which can be found at https://support.asiga.com/software/

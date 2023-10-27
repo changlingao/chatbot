@@ -1,0 +1,8 @@
+Installing the PRO 4K XL or PRO 4K. Printer registration.
+To register your printer, please perform the following steps:
+1. Select your desired language (https://support.asiga.com/wp-content/uploads/2022/07/Language-Selection.jpg)
+2. Make note of the printer serial number displayed on your screen and navigate to www.asiga.com/register to link the printer to your Asiga account (https://support.asiga.com/wp-content/uploads/2022/07/Product-Registration_1000JPG.jpg)
+3. Fill out the Serial Number and Printer Location fields and click 'Activate' (https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga-Admin.jpg)
+4. Enter the activation code found on the front panel of your printer (https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga_Admin_activationcode.jpg)
+5. Enter the registration code and click 'Register'
+Your printer should now be fully operational.

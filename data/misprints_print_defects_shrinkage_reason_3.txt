@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Shrinkage of parts. Reasons 3.
+If the model uses supports, incorrect or insufficiently supported parts can distort during printing. Therefore could you open a support ticket and attach the file to the ticket. If it uses supports, please export the entire build via FILE> EXPORT BUILD. Lastly, also attach the printer.ini to the ticket, so we can check the settings to ensure everything is well adjusted.

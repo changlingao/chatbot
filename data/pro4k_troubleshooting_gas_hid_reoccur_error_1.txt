@@ -1,0 +1,2 @@
+Category is PRO4K. Troubleshooting gas hid error reoccur step 1.
+If the error occurs again, try bypassing the USB hub and connecting the projector directly to Olimex. You will need a longer USB-A male to USB-B male cable to connect the projector directly to Olimex. The current USB cable between the USB hub and projector is quite short so it can't be reused to connect the projector directly to Olimex.

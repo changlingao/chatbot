@@ -1,0 +1,2 @@
+Category is Resins. Keysplint main aspects.
+Keysplint used to recommend an orientation of 45 degrees, but now it is an angle of 75-90 degrees, to expose as less of the surface of the model as possible. A good contact width of the supports: It's recommended to use very thick supports for the base of the model. It is recommended to use a contact width of 2mm (anchor support) and 1.5mm to further support the base. For the rest of the model, consider 0.8-1mm contact width.

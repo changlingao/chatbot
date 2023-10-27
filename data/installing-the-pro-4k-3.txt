@@ -1,0 +1,4 @@
+Installing the PRO 4K. Connecting to power
+The PRO 4K is supplied with an internal power supply and a power lead with a plug type suited to your region. The power supply automatically regulates to adapt to the local voltage in your region. The PRO 4K is safe to use from 100V to 240V.
+To power on the printer, connect the power cable to the printer and a power outlet as shown in the following image: https://support.asiga.com/wp-content/uploads/2022/08/pro4k-networkpanel-cropped.jpg
+The power button should turn green when turned on.

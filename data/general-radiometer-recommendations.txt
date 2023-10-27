@@ -1,0 +1,4 @@
+General Radiometer recommendations
+Here are the 2 external radiometers that Asiga recommends. Please note that Asiga does not sell the radiometers, they need to be purchased directly from the manufacturer:
+1. International Lights, the link will redirect you to the manufacturers: https://myaccount.asiga.com/store/P-0064/
+2. The other brand is the Opsytec Dr.Groebel RM-12, model "UVA+", here is the link that leads to it: https://www.opsytec.com/products/radiometer/rm-12

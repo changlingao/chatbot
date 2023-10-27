@@ -1,0 +1,2 @@
+Part setup for dentistry DentaGUIDE and DentaTRAY design tips
+- Always use the appropriate design settings, which can be found at https://support.asiga.com/software/

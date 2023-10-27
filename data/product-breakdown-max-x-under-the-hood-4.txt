@@ -1,0 +1,2 @@
+Product breakdown of MAX X under the hood. The Build Tray
+Build trays contain the resin during the printing process. They are comprised of a flexible film that moves with the build platform. (https://support.asiga.com/wp-content/uploads/2022/08/max-x-tray.jpg) Asiga recommends one Build Tray per material. Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials. For more information on maintaining the build tray, visit https://support.asiga.com/maintaining-the-build-tray-max-x/

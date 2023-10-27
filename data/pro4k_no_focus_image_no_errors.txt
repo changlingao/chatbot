@@ -1,0 +1,3 @@
+Category is PRO4K. No focus image, no errors.
+Unplug the HDMI cable from the projector, and plug it into a 1080p computer monitor, and show the printer focus image. Does it show up on the screen? This will help to determine if the computer board is sending the picture, and if the HDMI cable is functioning.
+While the printer is on, take a photo of the electronic boards, the square power board down the bottom (behind the right-hand side panel), and the other boards behind the LCD screen door.

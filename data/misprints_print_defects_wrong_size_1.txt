@@ -1,0 +1,2 @@
+Category is Misprints and Print Defects. Wrong size parts printed. Troubleshooting 1.
+Please send us the printer.ini by attaching it to a support ticket so we can check the current settings. To get that file, open Composer, go to New Build>your target printer>the blue globe icon in the top right corner, a web browser will open, go to the tab System Information and you will see View Printer.ini. Right-click that file and click Save Target As/Save Link As to download the text file.

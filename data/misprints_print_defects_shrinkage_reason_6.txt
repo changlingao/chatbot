@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Shrinkage of parts. Reasons 6.
+Since trapped volume during printing can cause sizing issues, it is important to orient parts so this will not be a factor. Please open a support ticket and attach the printer ini file to it and let us know which resin you are using for us to check the printer generally for any issues.

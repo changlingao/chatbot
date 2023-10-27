@@ -1,5 +1,0 @@
-Category is uncategorised. New User workflow. Step four is the build platform calibration. 
-Ensure the build platform calibration has been done and validated with a piece of paper, as seen in this video:
-MAX: Calibration: https://support.asiga.com/maintenance-schedule-max/#platform-calibration
-MAX: Validation: https://support.asiga.com/maintenance-schedule-max/#platform-validation
-PRO4K: https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation

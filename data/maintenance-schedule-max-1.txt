@@ -1,0 +1,2 @@
+MAX maintenance schedule
+It’s best practice to keep your Asiga printer as clean as possible. This means cleaning up resin drops or spills with IPA (Isopropyl Alcohol) but also preventing dust build up. Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer. You should also regularly clean glass surfaces, perform platform calibration, validate the calibration and ensure firmware is updated to the latest version.

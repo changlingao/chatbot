@@ -1,0 +1,2 @@
+Category is PRO4K. Printer turns off.
+Are you using an uninterruptible power supply (UPS)? If so, it needs to be at least 600W, preferably 750W. Please confirm when the printer turns off, is the green illumination on the power button gone? If not, the LCD screen could be going dark if the computer board is crashing, which would not be a power issue. If it is, this will confirm if the power is really cutting out, and we can look for why there is a power issue.

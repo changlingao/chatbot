@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 1. 
+Splitting can be due to having not enough resin in the tray. It is recommended to have the tray 1/2 to 3/4 full when printing, to help resin to flow under the print job as it prints. If the customer disables separation detection, the platform will be raised more between layers, which can help with this issue, but it is best to ensure there is plenty of resin in the tray before starting printing.

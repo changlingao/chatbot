@@ -1,0 +1,3 @@
+Category is Misprints & Print Defects. Print split layer did not print 4.
+Also, please use plenty of resin in the tray, at least 1/2 but preferably 3/4 full.
+Additionally, for testing, you can try to turn off the fast print and separation detect options. Particularly the separation detects being turned off so the platform will move further away from the glass between printing layers, then you are guaranteed to have the resin flow underneath the model, reducing improper printing of the layer.

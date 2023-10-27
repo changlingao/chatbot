@@ -1,0 +1,2 @@
+Category is PRO4K. Printer turns off troubleshooting 2.
+Turn off the printer, plug in the two heater plugs, and unplug the two projector power plugs (circled in red, on the right) then test the heater. NB serial will show as zeros if projector power is unplugged, this is normal.Turn on the heater of the machine under Settings> Temperature, set a Setpoint of 35C degrees and turn on the controller. Let this run for a couple of hours, to see if this makes the printer shutdown.

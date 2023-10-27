@@ -1,0 +1,2 @@
+Category is PRO4K. Troubleshooting gas hid error.
+When this problem occurs the printer is not connected to the network which could indicate the wifi stopped working at the same time the projector HID errors occurred. Was the printer connected to the network using wifi when this issue occurred? Did the errors occur only just when the print was started or was it after some layers were successfully printed?

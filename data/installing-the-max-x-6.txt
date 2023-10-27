@@ -1,0 +1,7 @@
+Installing the MAX X or MAX. Assign a fixed IP address
+If you wish to assign a fixed IP address to your printer, follow the steps below:
+1. Select Settings > Wired Network (https://support.asiga.com/wp-content/uploads/2022/08/settings-wired-selected.jpg)
+2. Toggle off ‘Automatic Configuration’
+3. Enter the IP Address & select save.
+4. Enter the Subnet Mask & select save.
+Setting the Gateway, Primary DNS and Secondary DNS are optional & may be left blank.

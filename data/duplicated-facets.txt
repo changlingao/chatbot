@@ -1,0 +1,2 @@
+What is the ‘duplicated facets’ error message?
+To gain further insight into the error, click 'Show Details' on the Duplicate Facets error message (https://support.asiga.com/wp-content/uploads/2022/09/duplicated-facets.jpg). This will reveal the type of error: STM or STL.

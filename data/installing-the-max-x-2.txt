@@ -1,0 +1,8 @@
+Installing the MAX X or MAX. Connecting to power.
+The printers are supplied with an external power supply and a power lead with a plug type suited to your region. The external power supply automatically regulates to adapt to the local voltage in your region. The power supply is safe to use from 100V to 240V.
+To connect the printer to a power source:
+1. Place the printer on a sturdy surface.
+2. Connect the power cable to the printer and a power outlet. 
+3. Flip the Power Switch at the rear of the printer. (https://support.asiga.com/wp-content/uploads/2022/07/MAX-Power-Switch.jpg)
+4. Turn the printer on with the power button on top. (https://support.asiga.com/wp-content/uploads/2022/07/MAX-Power-Switch.jpg)
+The power button should turn green when turned on.

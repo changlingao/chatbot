@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Admin Dashboard</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/css/styles.css">
+    
+  </head>
+  <body>
+    <div class="feedback-container">
+
+      <!-- Header -->
+      <header class="header">
+        <div class="menu-icon" onclick="openSidebar()">
+          <span class="material-icons-outlined">menu</span>
+        </div>
+        <div class="header-left">
+           <p class="font-weight-bolder">Customer Feedback</p>
+        </div>
+        <div class="header-right">
+          <span class="material-icons-outlined">notifications</span>
+          <span class="material-icons-outlined">email</span>
+          <span class="material-icons-outlined">account_circle</span>
+        </div>
+      </header>
+      <!-- End Header -->
+
+      <!-- Sidebar -->
+      <aside id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">inventory</span> Menu
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item">
+            <a href="./" target="_self">
+              <span class="material-icons-outlined">dashboard</span> Dashboard
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="faq" target="_self">
+              <span class="material-icons-outlined">description</span> FAQ
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="feedback" target="_self">
+              <span class="material-icons-outlined">feedback</span> Feedback
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="#" target="_self">
+              <span class="material-icons-outlined">settings</span> Settings
+            </a>
+          </li>
+        </ul>
+      </aside>
+      <!-- End Sidebar -->
+
+      <main class="main-container">
+        <div class="main-cards">
+
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary"> Accurate Answers </p>
+            </div>
+            <span id="usage" style="color: #00D222" class="text-primary font-weight-bold">{{ accurate }}%</span>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Out of {{ pos_fb }} positive feedbacks</p>
+            </div>
+
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary"> Inaccurate Answers </p>
+            </div>
+            <span id="solved" style="color: #ff0b0b" class="text-primary font-weight-bold">{{ inaccurate }}%</span>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Out of {{ neg_fb }} negative feedbacks</p>
+            </div>
+
+          </div>
+          
+
+        </div>
+        
+        <div class="btnContainer">
+          <button id="btn pos" class="btn active" onclick="changeTable('positive')"> Positive</button>
+          <button id="btn neg" class="btn" onclick="changeTable('negative')"> Negative</button>
+        </div>
+        
+        <div class="btnContainer" id="positive" style="display: block;">
+          <table>
+            {% for cm in positive %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+        <div class="btnContainer" id="negative" style="display: none;">
+          <table>
+            {% for cm in negative %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+
+
+      </main>
+
+      
+
+      
+      
+    </div>
+      
+
+    
+    </div>
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="static/js/script.js"></script>
+  </body>
+</html>

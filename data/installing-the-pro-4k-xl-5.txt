@@ -1,0 +1,5 @@
+Installing the PRO 4K XL or PRO 4K. Connecting to your printer on a wired/ethernet connection.
+To connect to your printer on a wired/ethernet connection, please perform the following steps:
+1. From the Main Menu, select 'Settings' (https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu.jpg)
+2. Select Wired Network (https://support.asiga.com/wp-content/uploads/2022/07/Settings-Menu.jpg)
+If your network cable is connected properly, you should see an IP Address here. If there is nothing visible, check the network cable on the rear of the printer or router.

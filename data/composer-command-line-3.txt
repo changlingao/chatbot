@@ -1,0 +1,12 @@
+Composer Command Line Options 3
+Usage: composer [OPTIONS..] [--] [FILES..]
+Options:
+--properties-export=FILENAME   Incrementally exports dialog properties on show event.
+--ipc-log=FILENAME             Saves IPC / JSONRPC messages to file, defaults to temp folder.
+--ipc-timeout=MSEC             Tune IPC / JSONRPC message timeout (4000).
+--ipc-socket=FILENAME          Socket name for IPC / JSONRPC messaging or disabled if empty.
+--jsonrpc-server               Enables Javascripting over JSONRPC over socket.
+--jsonrpc-request=[FILENAME|-] Javascript input to send to a running server and exit.
+--jsonrpc-params=ARG           JSON params to bind into Javascript input on server.
+--threads=COUNT                Tune maximum number of threads to use.
+--output-ipc=FILENAME          Deprecated, use --ipc-log.

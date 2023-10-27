@@ -1,0 +1,10 @@
+MAX X printer components 
+The MAX X printer consists of the following components:
+1. Hood
+2. Build platform knob
+3. Build platform
+4. Build tray clamps
+5. Basin
+6. Touch screen
+Please refer to the following labelled diagram of the components: https://support.asiga.com/wp-content/uploads/2022/08/test.jpg
+For a labelled diagram of the power panel at the rear of the printer, please refer to this image: https://support.asiga.com/wp-content/uploads/2022/07/MAX-Rear-Crldrw.jpg

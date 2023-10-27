@@ -1,0 +1,3 @@
+Part setup for dentistry DentaTOOTH design tips
+- A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.
+- Always use the appropriate design settings, which can be found at https://support.asiga.com/software/

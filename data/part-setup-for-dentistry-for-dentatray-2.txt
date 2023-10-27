@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaTRAY recommendations
+Custom impression trays are recommended to be built with a 100-150 µm slice thickness and it should be oriented so that the intaglio surface of the tray is facing away from the build platform. Angulation of the custom tray is not crucial.

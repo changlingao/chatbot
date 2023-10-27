@@ -1,0 +1,2 @@
+Category is PRO4K. Troubleshooting gas hid error reoccur step 2.
+Power off printer, unplug power from USB hub, unplug USB hub from Olimex, unplug USB cable from projector, connect USB-A male to USB-B male cable from Olimex to projector, power on printer, run the printer until the projector HID errors occur again, then go to printer's web interface, click System Information tab and Debug Information.

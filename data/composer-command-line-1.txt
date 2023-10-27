@@ -1,0 +1,9 @@
+Composer Command Line Options 1
+Usage: composer [OPTIONS..] [--] [FILES..]
+Options:
+--window-size=[WIDTH,HEIGHT]   Start with the specified size rather than maximized.
+--output-log=FILENAME          Saves Composer log output to file, defaults to temp folder.
+--output-debug[=CLASSFUNC]     Specify class functions or leave blank for everything.
+--output-msec                  Output timestamps with milliseconds accuracy.
+--output-utc                   Output timestamps in UTC timezone rather than localtime.
+--properties-import=FILENAME   Applies dialog properties on show event.

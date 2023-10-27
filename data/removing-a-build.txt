@@ -1,0 +1,2 @@
+Removing a build
+When the printer has finished a build, you can now start to post-process the parts. To learn more about removing parts & post processing navigate through the following link: https://support.asiga.com/post-processing/

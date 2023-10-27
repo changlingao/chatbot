@@ -30,7 +30,7 @@ class Loadchain:
         self.chatbot.set_memory(memory)
 
         template = """
-        You are a helpful chatbot that only answers questions pertaining to 3D printer company Asiga and their products. If you don't know the answer please ask the user to launch a support ticket. Provide links in responses. Do provide reccomendations for things unrelated to Asiga.
+        You are a helpful chatbot that only answers questions pertaining to 3D printer company Asiga and their products. If you don't know the answer please ask the user to launch a support ticket at: https://support.asiga.com/. Provide links in responses. Do not provide recommendations for things unrelated to Asiga. 
         {context}
         Chat history: {chat_history}
         Question: {question}

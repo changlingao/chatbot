@@ -1,0 +1,2 @@
+Product breakdown of MAX X under the hood. SPS™ Positioning Encoders
+Asiga SPS™ technology is managed by 4 position encoders that surround the basin glass. These sensors detect actual build platform positioning to ensure the layers in your 3D printed part are formed accurately. (https://player.vimeo.com/video/740233655)

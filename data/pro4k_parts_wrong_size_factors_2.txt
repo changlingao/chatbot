@@ -1,0 +1,2 @@
+Category is PRO4K. Parts wrong size factors 2.
+(For dies only) Which CAD design software do you use? When you design the dies, do you add a clearance (horizontal shaft gap) or a cement gap to your models? For example when using Exocad, a clearance of 20 microns would be necessary. If using 3Shape, then a cement gap of 30 microns (0.030mm) would be necessary. See also if there is a DME file available for your dental software: https://myaccount.asiga.com/accounts/#tab_software

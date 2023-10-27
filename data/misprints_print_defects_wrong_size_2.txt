@@ -1,0 +1,2 @@
+Category is Misprints and Print Defects. Wrong size parts printed. Troubleshooting 2.
+Please also attach the part you are trying to print and the resin type in the support ticket. If you placed any supports in the model/s, we would need to see it fully supported. To do so, load the fully supported model/s into Composer, then click FILE> EXPORT BUILD, this will generate a ZIP file, please then attach the ZIP onto the ticket.

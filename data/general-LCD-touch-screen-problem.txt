@@ -1,0 +1,12 @@
+General LCD touch screen problem
+It would be good to confirm whether the problem is with the touchscreen or if it is due to the computer board freezing.
+please check if you are able to access your printer by the web interface. 
+Here are step by step instructions to do so:
+1. Open Composer
+2. Click New 
+3. Select your printer and click 'ok'
+4. Click on the blue globe icon
+5. There is a tab front panel which will show the printers screen and then you can use the mouse to navigate.
+If you are able to access the web interface, then it will clarify that the problem is only the touchscreen.
+
+

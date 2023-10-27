@@ -1,0 +1,2 @@
+Category is PRO4K. Heater causes issues checking projector 1.
+If the heater fault was not verified with the projector unplugged and cannot be attributed to one side or the other of the heaters, the heaters are probably fine, and the shutdown issue would be related to current draw. It is possible that the projector in the background is drawing excessive power, and adding the electrical load of the heater goes past a certain point.

@@ -1,0 +1,3 @@
+MAX Heater issues part2
+Although the material.ini file suggests a temperature of 40°C, in most cases, this level of heat is not necessary; lower temperatures will yield similar results.
+We could send you a replacement heater board and heater element to exchange in this machine. However, even with these replacements, we cannot guarantee that the printer will reach temperatures greater than 35°C. You might want to consider explaining the situation to the customer and advising them that, for future prints, the heating process can be skipped once the printer reaches 26°C or 30°C.

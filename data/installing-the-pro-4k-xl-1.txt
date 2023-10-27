@@ -1,0 +1,7 @@
+Installing the PRO 4K XL or PRO 4K
+To install your printer, please perform the following steps:
+1. Connect to a power source
+2. Register the printer on your Asiga account
+3. Connect to your printer through either a wired/ethernet connection, wifi or a wireless connection
+4. Calibrate the build platform
+5. Insert the build tray and resin

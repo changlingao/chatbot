@@ -1,0 +1,4 @@
+Part setup for dentistry DentaMODEL and DentaSTUDY design tips
+- Make sure hollow models have drain holes at the base of the models to prevent volumetric pressures from occurring. Learn more at: https://support.asiga.com/suction-cup-effect/
+- Hollow models can still carry a lot of liquid resin in their cavities after printing, especially with higher viscous materials. This can lead to increased cleaning efforts and quicker contamination of your cleaning solution. Consider printing solid models over hollow models for process optimisation.
+- Always use the appropriate design settings, which can be found at https://support.asiga.com/software/

@@ -1,0 +1,4 @@
+Category is Misprints & Print Defects. Tags on print possible solution 2.
+MAX: https://support.asiga.com/maintenance-schedule-max/#cleaning-the-glass-surfaces
+PRO4K: https://support.asiga.com/maintenance-schedule-pro-4k/#cleaning-the-glass-surfaces
+Run a print and if the skinning is still there, the mirror below the basin with glass might be too dirty, something is on the bottom tray, or skins and tags are in the resin. Shine through the glass into the mirror to check for a thicker layer of dust.

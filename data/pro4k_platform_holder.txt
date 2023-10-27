@@ -1,0 +1,2 @@
+Category is PRO4K. Check platform holder.
+Please check if when the platform is raised, and the calibration and grub screw are tightened, that you can’t move the platform from sideways with your hands. It should be tight and doesn’t move. If you remove the platform from the platform holder, and loosen the calibration screw and the grub screw, the central piece of metal under the black knob (between the semicircular pieces) should move freely. This checks for issues with the platform holder.

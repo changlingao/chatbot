@@ -1,0 +1,6 @@
+Duplicated facets STL file error
+If your error message is suffixed by '.stl', you are experiencing an STL error. This means there are duplicated facets in the model itself & can only be rectified within a CAD program. Typical names for this repair function are:
+- Mesh repair
+- Mesh heal
+- Boolean repair
+If you are still experiencing technical difficulties, please launch a support ticket using the following link: https://myaccount.asiga.com/accounts/support/0/

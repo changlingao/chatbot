@@ -1,5 +1,11 @@
 <h1 align="center">Technical Support Chatbot for Asiga</h1>
 
+## Setting up Environment Variables
+> ⚠️ **The API key must  be set in order for the code to run**
+
+Source: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+
+
 ## Virtual Environments
 
 1. Install virtualenv
@@ -29,7 +35,7 @@ source <virtual-environment-name>/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-(optional: 5. Deactivate environment)
+5. Deactivate environment (optional)
 ```
 deactivate
 ```
@@ -37,6 +43,11 @@ deactivate
 6. run the chatbot under root directory
 ```
 python3 frontend/routes.py
+```
+
+6. run the dashboard under root directory
+```
+python3 dashboard-frontend/routes.py
 ```
 
 ### Extras

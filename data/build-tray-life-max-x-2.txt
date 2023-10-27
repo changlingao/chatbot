@@ -1,0 +1,5 @@
+Checking Build Tray life 
+From the Main Menu, select System > Tray Data. The Build Tray usage is displayed in %. The following images show the step-by-step process:
+1. From the Main Menu, select System (https://support.asiga.com/wp-content/uploads/2022/07/MainMenu-System.jpg)
+2. Select Tray Data (https://support.asiga.com/wp-content/uploads/2022/07/System-TrayData.jpg)
+3. The Build Tray usage is displayed in % (https://support.asiga.com/wp-content/uploads/2022/07/Tray-data.jpg)

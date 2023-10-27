@@ -1,0 +1,2 @@
+Product breakdown of MAX under the hood. The Build Tray
+Build trays contain the resin during the printing process. They are constructed of a flexible film within a rigid plastic frame. (https://support.asiga.com/wp-content/uploads/2022/08/MAX-lowforce-build-tray.jpg) Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials. For more information on build trays, please visit: https://support.asiga.com/maintaining-the-build-tray/

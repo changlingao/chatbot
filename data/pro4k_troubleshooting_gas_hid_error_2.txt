@@ -1,0 +1,2 @@
+Category is PRO4K. Troubleshooting gas hid error step 2.
+Check the wifi dongle. Power off printer, unplug USB extension for wifi from USB hub, power on printer and run printer until projector HID errors reoccur, then go to printer's web interface, click System Information tab and Debug Information. Like step 1, add "?k=1" to the end of the address in the address bar and press enter. Save the complete log to file and attach to a ticket with a comment that the debug log was saved when wifi is unplugged.

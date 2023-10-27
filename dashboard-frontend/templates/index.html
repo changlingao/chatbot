@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Admin Dashboard</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/css/styles.css">
+
+    <!-- ApexCharts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/apexcharts/3.35.3/apexcharts.min.js"></script>
+
+  </head>
+  <body>
+    <script type="text/javascript">
+      var rating = ['{{ rating[0] }}', '{{ rating[1] }}', '{{ rating[2] }}', '{{ rating[3] }}', '{{ rating[4] }}'];
+      var usage = ['{{ usage_weekly[3]}}', '{{ usage_weekly[2]}}', '{{ usage_weekly[1]}}', '{{ usage_weekly[0]}}'];
+      var usage_dates = ['{{ usage_dates[3]}}', '{{ usage_dates[2]}}', '{{ usage_dates[1]}}', '{{ usage_dates[0]}}'];
+    </script>
+
+    <div class="grid-container">
+
+      <!-- Header -->
+      <header class="header">
+        <div class="menu-icon" onclick="openSidebar()">
+          <span class="material-icons-outlined">menu</span>
+        </div>
+        <div class="header-left">
+           <p class="font-weight-bolder">Asiga Chatbot Analytics Dashboard</p>
+        </div>
+        <div class="header-right">
+          <span class="material-icons-outlined">notifications</span>
+          <span class="material-icons-outlined">email</span>
+          <span class="material-icons-outlined">account_circle</span>
+        </div>
+      </header>
+      <!-- End Header -->
+
+      <!-- Sidebar -->
+      <aside id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">inventory</span> Menu
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item">
+            <a href="#" target="_self">
+              <span class="material-icons-outlined">dashboard</span> Dashboard
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="faq" target="_self">
+              <span class="material-icons-outlined">description</span> FAQ
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="feedback" target="_self">
+              <span class="material-icons-outlined">feedback</span> Feedback
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="#" target="_self">
+              <span class="material-icons-outlined">settings</span> Settings
+            </a>
+          </li>
+        </ul>
+      </aside>
+      <!-- End Sidebar -->
+
+      <!-- Main -->
+      <main class="main-container">
+        <div class="main-cards">
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary">Usage</p>
+            </div>
+            <span id="usage" class="text-primary font-weight-bold">{{ usage }}</span>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Past 30 days</p>
+            </div>
+
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary">Solved</p>
+            </div>
+            <span id="solved" class="text-primary font-weight-bold">{{ solved }}%</span>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Out of {{ pos_fb }} positive feedbacks</p>
+            </div>
+
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary font-weight-bold">Average Response Time</p>
+            </div>
+            <div style="float:left;">
+              <span id="response" style="color: #00D222" class="text-primary font-weight-bold font-large">{{ response }}</span>
+              <span style="color: #00D222" class="text-primary font-weight-bold"><font size="5">secs</font></span>
+            </div>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Past 30 days</p>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <p class="text-primary">Average Conversation Time</p>
+            </div>
+            <div style="float:left;">
+              <span id="time" style="color: #00D222" class="text-primary font-weight-bold font-large">{{ convo_time }}</span>
+              <span style="color: #00D222" class="text-primary font-weight-bold"><font size="5">secs</font></span>
+            </div>
+            <div class="card-outer">
+              <p class="text-primary font-weight-bold">Past 30 days</p>
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="charts">
+          
+          <div class="charts-card">
+            <p class="chart-title">Usage</p>
+            <div id="area-chart"></div>
+          </div>
+
+          <div class="charts-card">
+            <p class="chart-title">Customer Satisfaction</p>
+            <div id="pie-chart"></div>
+          </div>
+
+        </div>
+
+
+      </main>
+      <!-- End Main -->
+
+    </div>
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="static/js/script.js"></script>
+
+  </body>
+</html>

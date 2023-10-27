@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaFORM recommendations
+Clear aligners, night guards, splints and sports guards are recommended to be built with 50-150 µm layer thicknesses, depending on desired surface detail. Either horizontal or vertical part orientation can be done. Horizontal orientations will produce higher precision. 

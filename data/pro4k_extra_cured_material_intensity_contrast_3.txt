@@ -1,0 +1,2 @@
+Category is PRO4K. Extra cured material, intensity, contrast ratio stage 3.
+Verify the contrast ratio of the projector using an external radiometer. Place the external radiometer head in the center of the build area. Measure the light intensity under Control > LED, and check the value on the external radiometer. Check the light intensity under Maintenance>Service> LED> Radiometer and check the measured value, shown on the external radiometer. Please provide the data in the support ticket.

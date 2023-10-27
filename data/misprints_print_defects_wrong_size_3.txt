@@ -1,0 +1,2 @@
+Category is Misprints and Print Defects. Wrong size parts printed. Troubleshooting 3.
+Otherwise ensure the firmware of the machine and Composer version are latest. Also check that the optical light path of the printer is clean. Any "smudges" in the light path will scatter the projector light, and either lead to dimensional inaccuracy or leaving tags/patches on your models. You can use IPA (IsoPropyl Alcohol), a soft cloth, and window cleaner for a final wipe, to remove any potential streaks.

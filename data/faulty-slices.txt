@@ -1,0 +1,5 @@
+What does the ‘faulty slices’ error message mean?
+This error message means that the model contains multiple faulty layers. Composer will attempt to repair faulty slices but if there are too many faulty slices, unusual print outcomes can be expected. This can only be rectified within a CAD program. Typical names for this repair function are:
+- Mesh repair
+- Mesh heal
+- Boolean repair

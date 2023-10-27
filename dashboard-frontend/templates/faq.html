@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Admin Dashboard</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/css/styles.css">
+    
+  </head>
+  <body>
+    <div class="faq-container">
+
+      <!-- Header -->
+      <header class="header">
+        <div class="menu-icon" onclick="openSidebar()">
+          <span class="material-icons-outlined">menu</span>
+        </div>
+        <div class="header-left">
+           <p class="font-weight-bolder">Frequently Asked Questions</p>
+        </div>
+        <div class="header-right">
+          <span class="material-icons-outlined">notifications</span>
+          <span class="material-icons-outlined">email</span>
+          <span class="material-icons-outlined">account_circle</span>
+        </div>
+      </header>
+      <!-- End Header -->
+
+      <!-- Sidebar -->
+      <aside id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">inventory</span> Menu
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item">
+            <a href="./" target="_self">
+              <span class="material-icons-outlined">dashboard</span> Dashboard
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="faq" target="_self">
+              <span class="material-icons-outlined">description</span> FAQ
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="feedback" target="_self">
+              <span class="material-icons-outlined">feedback</span> Feedback
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="#" target="_self">
+              <span class="material-icons-outlined">settings</span> Settings
+            </a>
+          </li>
+        </ul>
+      </aside>
+      <!-- End Sidebar -->
+      
+      <main class="main-container">
+        <div class="btnContainer">
+          <button id="all-btn" class="btn active" onclick="changeView('all')"> Show all</button>
+          <button id="first-btn" class="btn" onclick="changeView('first')"> {{ top_keys[0] }}</button>
+          <button id="second-btn" class="btn" onclick="changeView('second')"> {{ top_keys[1] }}</button>
+          <button id="third-btn" class="btn" onclick="changeView('third')"> {{ top_keys[2] }}</button>
+          <button id="fourth-btn" class="btn" onclick="changeView('fourth')"> {{ top_keys[3] }}</button>
+          <button id="fifth-btn" class="btn" onclick="changeView('fifth')"> {{ top_keys[4] }}</button>
+        </div>
+        
+        <div class="btnContainer" id="all" style="display: block;">
+          <table>
+            {% for q in all %}
+              <tr>
+                <td> {{ q }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+  
+        <div class="btnContainer" id="first" style="display: none;">
+          <table>
+            {% for cm in top_q[0] %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+        <div class="btnContainer" id="second" style="display: none;">
+          <table>
+            {% for cm in top_q[1] %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+        <div class="btnContainer" id="third" style="display: none;">
+          <table>
+            {% for cm in top_q[2] %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+        <div class="btnContainer" id="fourth" style="display: none;">
+          <table>
+            {% for cm in top_q[3] %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+  
+        <div class="btnContainer" id="fifth" style="display: none;">
+          <table>
+            {% for cm in top_q[4] %}
+              <tr>
+                <td> {{ cm }} </td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+        
+      </main>
+      
+
+    <!-- Custom JS -->
+    <script type="text/javascript" src="static/js/script.js"></script>
+  </body>
+</html>

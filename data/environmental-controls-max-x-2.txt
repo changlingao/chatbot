@@ -1,0 +1,5 @@
+Heater controls on Print End
+During the printing process, the resin remains heated to maintain optimal temperature. Once the print is completed, the heater will switch off and the printer will cool down. Note that there is no danger in touching the print or the printer immediately after a print is finished as the temperature will be around 30 °C (86°F).
+To check the temperature:
+1. Select Settings from Main Menu.
+2. Select Temperature from Settings Menu.

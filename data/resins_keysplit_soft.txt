@@ -1,0 +1,2 @@
+Category is Resins. Keysplint soft.
+Since the Keysplint Soft material is relatively sticky and viscous, you would need to set up the model in a specific way. If you havent read the material guide for this resin already, please have a look at following file: https://www.asiga.com/accounts/resources/Materials/KeyStone/Keysplint%20Soft%20-%20Advanced%20Supportstrategy%20Recommendation.pdf

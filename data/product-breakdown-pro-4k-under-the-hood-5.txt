@@ -1,0 +1,3 @@
+Product Breakdown for PRO 4K under the hood. The Build Tray
+Build trays contain the resin during the printing process. They are constructed of a flexible film within a rigid plastic frame. (https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray.png) For more information on maintaining the build tray, visit https://support.asiga.com/maintaining-the-build-tray-pro-4k/
+Asiga recommends one Build Tray per material. Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials.

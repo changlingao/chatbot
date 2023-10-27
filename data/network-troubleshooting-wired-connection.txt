@@ -1,0 +1,9 @@
+Network troubleshooting for wired connection
+If you are experiencing network connection issues with a wired connection, follow the troubleshooting steps below.
+Select ‘Settings’ from Main Menu and make sure ‘Automatic Configuration’ is turned on.
+If there is an IP Address showing, your printer is connected to the network.
+
+If this did not work, check the following things:
+- Check the network cable for any damage or loose connections. Use a different cable if any damage is visible.
+- Check the router if any lights are on. Restart the router & printer if no activity is detected.
+Your printer should now be connected to your network. If this did not work, please launch a support ticket at https://myaccount.asiga.com/accounts/support/0/.

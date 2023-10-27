@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Prints detaching causes 1.
+A failed print on your Asiga 3D printer can occur from multiple causes such as a dirty basin glass where the build tray sits, zero position calibration is out of alignment, or debris in the resin. Hollow models directly placed on the build platform can be another reason. As well as an incorrect setup in Composer (wrong material file, no base plate added to supported models, nesting issue etc). 

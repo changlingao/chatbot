@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaMODEL recommendations
+A horizontal part orientation with a 50 µm layer thickness is recommended for crown and bridge models, dental implant models, RPD and denture models for higher precision. A vertical part orientation is recommended for study models and diagnostic wax-up models with 100 µm thickness, and dental thermoforming models with a 100-150 µm thickness.

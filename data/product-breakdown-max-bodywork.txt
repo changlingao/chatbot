@@ -1,0 +1,12 @@
+Product breakdown of MAX bodywork
+1. Hood
+The MAX Hood is constructed of UV blocking hard plastic. This protects the resin from being cured by natural light & the user from UV light emitted.
+2. Front Panel
+The front panel is the white surround that contains the LCD screen. The LCD screen is the main control panel for the printer.
+3. Rear Cover
+The rear cover is constructed of a curved black metal sheet with cut-outs housing the power and network plugs. This panel can be quickly removed for service and access to all printer electronics. The stainless steel panel on the lower half is the bottom rear cover.
+4. Power/Network Connection Panel
+On the rear of the printer is a connectivity panel. See diagram for all inputs: https://support.asiga.com/wp-content/uploads/2022/07/MAX-Rear-Crldrw.jpg
+There is a power ON/OFF button on the top of the printer.
+5. Side Panels
+The side panels are constructed of metal and painted white. These can be removed by disengaging the black plastic clip and hinge open.

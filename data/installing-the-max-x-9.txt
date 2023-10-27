@@ -1,0 +1,2 @@
+Installing the MAX X or MAX. Build platform calibration.
+Build Platform Calibration must be performed regularly to ensure optimal performance from your printer. Please refer to the following video for instructions on how to calibrate your build platform: https://player.vimeo.com/video/733852120

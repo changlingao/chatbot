@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 6.
+If you added drain holes onto your models, ideally the drain holes should be at the base of the model, so that air and resin can escape at any time. Have you been using the Fast Print Mode and Separation Detect for those prints? When you use both features, do you ensure to have enough resin in the build tray, we would recommend to fill it up at least half way, better 3/4, so there is no issue with resin-flow-back.

@@ -1,0 +1,3 @@
+Category is PRO4K. LED intensity too low due to HDMI cable.
+It is possible that the HDMI cable is not properly connected or the HDMI cable could be faulty.
+Please try reseating the HDMI cable on both ends, on the projector and on the motherboard. Please let us know if reseating the cable works, otherwise we can send you a replacement HDMI cable from here.

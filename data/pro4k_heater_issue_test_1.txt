@@ -1,0 +1,2 @@
+Category is PRO4K. Heater causes issues test 1.
+There are two plugs on the power distribution board, one for the right side, one for the left. Try run the heater when the left side is plugged in, and the right side unplugged. Try the right side plugged in, and the left side unplugged. If having one side plugged in makes the printer turn off, please verify that the other side will run ok without the printer turned off. The problem could be the heater element or the heater board on that side.

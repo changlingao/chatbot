@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaTOOTH recommendations
+A 50 µm thickness is recommended for denture teeth with a 45-90 degree orientation so the occlusal surface is pointing away from the build platform, allowing supports to be generated on the socketing side of the teeth.

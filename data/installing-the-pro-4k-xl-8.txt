@@ -1,0 +1,2 @@
+Installing the PRO 4K XL or PRO 4K. Build platform calibration.
+Build Platform Calibration must be performed regularly to ensure optimal performance from your printer. Asiga recommends calibrating once a month. Please refer to the following video tutorial on how to perform build calibration: https://player.vimeo.com/video/740582352

@@ -1,0 +1,4 @@
+Part setup for dentistry DentaBASE design tips
+- A 50-100 µm spacing between the denture base & tooth is recommended for best fitment.
+- At least 1 bar connecting the two sides of the arch is necessary to prevent warping of the model. This is especially true for Lower Dentures.
+- Always use the appropriate design settings, which can be found at https://support.asiga.com/software/

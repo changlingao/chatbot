@@ -1,0 +1,6 @@
+Wrong estimated build time on PRO 4K and PRO 4K XL due to trapped volume
+If your models have trapped volume, the printer has to work longer to achieve the correct slice thickness. Composer does not know why this is taking longer and will adjust the estimated print time accordingly. To fix this issue:
+1. Clean the build tray. You can refer to the following video tutorial: https://player.vimeo.com/video/741725965
+2. Calibrate the build platform calibration. You can refer to the following video tutorial: https://player.vimeo.com/video/740582352
+3. Perform 2 test prints to your choosing.
+If the first print is successful, the estimated build time for the second print should be more accurate.

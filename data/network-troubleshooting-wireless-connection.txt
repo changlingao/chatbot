@@ -1,0 +1,11 @@
+Network troubleshooting for wireless connection
+If you are experiencing network connection issues with a wireless connection, follow the troubleshooting steps below.
+Select ‘Settings’ from Main Menu then select 'Wireless Network'. Make sure that wireless network & automatic configuration are enabled.
+If your printer is showing a network name, it is connected to the network.
+
+If your printer is not showing a network name:
+- Select ‘Network Name’
+- Search for your network
+- Input correct password
+If there are no networks being shown, make sure that ‘Wireless Direct’ is turned off.
+If these steps did not work, please launch a support ticket at https://myaccount.asiga.com/accounts/support/0/.

@@ -1,0 +1,11 @@
+Composer Command Line Options 2
+Usage: composer [OPTIONS..] [--] [FILES..]
+Options:
+--                             End of options marker, treat next arguments as files.
+--version                      Print application version to standard output and exit.
+--help                         Print this message and exit.
+--headless                     Run composer without any window.
+--cache=[DIR]                  Use specific cache path.
+--profile=[DIR]                Use specific CONF path to store settings.
+--profile-reset[=DIR]          Clears all settings and optionally backup to CONF.
+--locale=LOCALE                Start with the specified language.

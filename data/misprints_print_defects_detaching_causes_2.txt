@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Prints detaching causes 2. 
+Stir the resin thoroughly before printing, as this too can cause issues. If your print has come away from the build platform, then redo the platform calibration and validate it with a piece of paper. The most important thing is to ensure that the build platform is parallel with the basin glass, or else it can cause partial detachments. 

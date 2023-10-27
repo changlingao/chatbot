@@ -1,0 +1,6 @@
+General Tolerances for cubes
+Tolerances for Cubes:
+1. MAX not greater than 50
+2. PRO2/Pro 4K not greater than 70
+3. Calibration corners = print at 100 microns
+4. Accuracy check = print at 25 microns for MAX machines / 50 microns for PRO4K machines

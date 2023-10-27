@@ -1,0 +1,3 @@
+Category is PRO4K. LCD screen backwards.
+This is a very occasional timing issue between the LCD screen and the computer board.
+Please try restarting the printer which should resolve the issue.

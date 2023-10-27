@@ -1,0 +1,2 @@
+Category is PRO4K. Parts wrong size checking focus image 1.
+Check the sharpness of the focus image, take the focus plate from the calibration kit and place it on top of the basin glass, wear the orange UV protective glasses, then go to Maintenance> Service> Focus and have a close look at the focus image, to see there is any blurry or unsharp areas in the focus image. Then press the Refresh button in that menu, wait until the focus image is refreshed, and see if you can spot a difference in sharpness.

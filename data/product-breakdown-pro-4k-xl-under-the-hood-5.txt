@@ -1,0 +1,2 @@
+Product breakdown of PRO 4K XL under the hood. The Build Tray
+Build trays contain the resin during the printing process. They are constructed of a flexible film within a rigid plastic frame. Asiga recommends one Build Tray per material. (https://support.asiga.com/wp-content/uploads/2022/08/pro4k-build-tray.png) Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials. For more information on maintaining the build tray please visit: https://support.asiga.com/maintaining-the-build-tray-pro-4k-xl/

@@ -1,0 +1,7 @@
+Network troubleshooting for wireless connection second solution
+If your printer is not showing a network name:
+- Select ‘Network Name’
+- Search for your network
+- Input correct password
+If there are no networks being shown, make sure that ‘Wireless Direct’ is turned off.
+If these steps did not work, please launch a support ticket at https://myaccount.asiga.com/accounts/support/0/.

@@ -1,0 +1,8 @@
+MAX Change LCD screen
+To change the LCD, you just need a T10 screwdriver. With the printer turned off:
+1. Remove the side panels at the bottom of the printer. 
+2. You will see two screws, one on each side down at the bottom that hold the plastic front panel in place. Remove those.
+3. Remove the front panel and unplug the LCD screen.
+4. Remove the metal plate that keeps the LCD in place on the front panel. There are five screws holding this to the plastic front panel.
+5. Remove the LCD screen, and reassemble with the replacement.
+Additionally to illustrate the process, please see this video: https://myaccount.asiga.com/accounts/distributor/maintenance/MAX%20Maintenance/How%20to%20replace%20the%20screen%20on%20a%20MAX.movie

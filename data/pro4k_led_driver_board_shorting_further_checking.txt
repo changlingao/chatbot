@@ -1,0 +1,2 @@
+Category is PRO4K. LED driver board shorting further checking.
+Check if the "Q1" chip appears to be burned out or if there is any discoloration around the chip that indicates thermal damage. When the 2 projector cables are disconnected, check for any thermal damage on the male connectors of both cables or on the female connectors on the power board. Check for any thermal damage around the 2 big green connectors and on the black or red wire, and if they sit firmly if you gently pull on them.

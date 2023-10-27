@@ -1,0 +1,3 @@
+Types of Composer DME files
+We currently have DME files for 3Shape, Exocad, and Dental-Wings. You can download the files from the Software tab in your Asiga account, provided here is the direct link: https://myaccount.asiga.com/accounts/#tab_software
+If you are looking for DME files for non-Asiga resins, please check with the resin manufacturer if the resin has been validated with the Dental-design software, and if there is a DME file available.

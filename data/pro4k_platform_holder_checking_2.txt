@@ -1,0 +1,2 @@
+Category is PRO4K. Platform holder checking 2.
+Next, please loosen the calibration screw, the grub screw, and the black knob. Remove the platform from the printer and you will see two semicircular pieces of metal under the black knob. Please check that the flat piece in between them can move up and down, and side to side when everything is loosened. This will verify that the platform holder is working properly in a way that will allow the platform to sit flat on the glass.

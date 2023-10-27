@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 2.
+Also, trapped volume can play a part in this splitting. As these are hollow models, please ensure that the supports are 4mm high, which will help to allow resin to flow as the part is being printed, to avoid pressure build up. An alternative is to use drain holes for hollow parts, which allows them to be printed without supports and a baseplate.

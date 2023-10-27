@@ -1,0 +1,2 @@
+Category is PRO4K. Heater causes issues test 2.
+Plug in both power plugs on the power distribution board, and unplug the heater element for the side that was causing the shutdown issue. This will mean the board on the faulty side is powered, but the heater element is not. Run the heater again to check if the printer shuts down, if it does, it will be the heater board causing the issue, if not, it will be the heater element (resistor).

@@ -1,0 +1,2 @@
+Category is PRO4K. LED intensity too low error (short version).
+If the LED power level is not already at 80%, can you try to reduce the LED power I level? Go to Maintenance> LED> Power Level, reduce it to 80% and save it, and see if the error message reappears. Otherwise we will need to exchange the LED driver board of the projector. We will therefore send you a replacement board free of charge and shipping.

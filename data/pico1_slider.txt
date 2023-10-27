@@ -1,0 +1,2 @@
+Category is PICO1. Pico 1 slider.
+A high slider can damage printing models, shifting the layers. To check, flip the focus plate so the clear sticker faces up, not touching the slider, Place it on the tension ring over the slider. Check the slider blade is clean, not sticky so it won’t drag the glass. Check the Focus Plate sticker isn't touching the tension ring. Go to Control>Slider and "home" the sensor back and forth. If the focus plate is dragged by the slider, it might be too high.

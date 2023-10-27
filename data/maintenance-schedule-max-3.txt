@@ -1,0 +1,2 @@
+Platform calibration on MAX
+Regular platform calibration will ensure your MAX keeps running smoothly. Asiga recommends calibrating once a month or every 20-30 prints. For instructions on how to perform platform calibration, please refer to the following video: https://player.vimeo.com/video/733852120
