@@ -1,5 +1,6 @@
 from langchain import OpenAI
 from langchain.callbacks import StreamingStdOutCallbackHandler
+from langchain.prompts import PromptTemplate
 
 from chatbot import ChatBot
 from langchain.embeddings import OpenAIEmbeddings
@@ -24,8 +25,6 @@ class Loadchain:
         # streaming 2: https://python.langchain.com/docs/modules/model_io/models/chat/streaming
         llm = ChatOpenAI(streaming=True, callbacks=[StreamingStdOutCallbackHandler()], model_name="gpt-3.5-turbo", temperature=0)
 
-        qa_chain = RetrievalQA.from_chain_type(llm, retriever=self.chatbot.get_retriever())
-
         memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True, output_key="answer")
         self.chatbot.set_memory(memory)
 
@@ -39,10 +38,21 @@ class Loadchain:
 
         self.prompt = self.chatbot.gen_prompt(template)
 
-        chain = load_qa_with_sources_chain(llm, chain_type="stuff")
+        # prompt to condense question
+        condense_question_template = """
+            Return text in the original language of the follow up question.
+            If the follow up question does not need context, return the exact same text back.
+            Never rephrase the follow up question given the chat history unless the follow up question needs context.
+
+            Chat History: {chat_history}
+            Follow Up question: {question}
+            Standalone question:
+        """
+        condense_question_prompt = PromptTemplate.from_template(condense_question_template)
 
         self.chat = ConversationalRetrievalChain.from_llm(llm=llm,
                                                           retriever=self.chatbot.get_retriever(),
                                                           memory=self.chatbot.get_memory(),
                                                           return_source_documents=True,
+                                                          condense_question_prompt=condense_question_prompt,
                                                           combine_docs_chain_kwargs={'prompt': self.prompt})

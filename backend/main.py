@@ -48,7 +48,12 @@ class Mainbot:
         result = self.loadchain.chat({"question": provided_question})
         atime = datetime.strptime(datetime.now().strftime(("%d-%m-%y %H:%M:%S")), "%d-%m-%y %H:%M:%S")
         answer = result['answer']
-        source = [result['source_documents'][0].metadata['source'].split("/")[-1], result['source_documents'][1].metadata['source'].split("/")[-1], result['source_documents'][2].metadata['source'].split("/")[-1]]
+        # for hi hello etc there can be no source docs
+        # source = [result['source_documents'][0].metadata['source'].split("/")[-1], result['source_documents'][1].metadata['source'].split("/")[-1], result['source_documents'][2].metadata['source'].split("/")[-1]]
+        source = []
+        for doc in result['source_documents']:
+            source.append(doc.metadata['source'].split("/")[-1])
+
         self.save_message(session_id, provided_question, qtime, answer, atime, source)
         answer = Mainbot.embedding_format(answer)
         return answer

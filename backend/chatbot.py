@@ -36,13 +36,17 @@ class ChatBot:
     def get_chromavectorstore(self, split, embedding: OpenAIEmbeddings) -> Chroma:
         vectorstore = Chroma.from_documents(documents=split, embedding=embedding)
 
-        self.retriever = vectorstore.as_retriever()
+        # self.retriever = vectorstore.as_retriever() retrieve some nonsense sometimes
+        self.retriever = vectorstore.as_retriever(search_type="similarity_score_threshold",
+                                                  search_kwargs={'score_threshold': 0.8})
         return vectorstore
     
-    def set_chromaretriever(self, retriever: VectorStore) -> bool:
-        if (retriever == None):
+    def set_chromaretriever(self, vectorstore: VectorStore) -> bool:
+        if (vectorstore == None):
             return False
-        self.retriever = retriever.as_retriever()
+        # self.retriever = vectorstore.as_retriever()
+        self.retriever = vectorstore.as_retriever(search_type="similarity_score_threshold",
+                                                  search_kwargs={'score_threshold': 0.8})
         return True
     
     def get_retriever(self):
