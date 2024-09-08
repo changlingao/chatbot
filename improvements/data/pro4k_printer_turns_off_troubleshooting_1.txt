@@ -1,0 +1,3 @@
+Category is PRO4K. Printer turns off troubleshooting 1.
+The projector and heating circuit draw the most power from the internal power supply.
+To isolate the issue, test the heater with the projector unplugged, test the projector when the heater is unplugged. Remove the side panel. Turn off printer, unplug the two heater power plugs. Turn on printer, go to Control>LED and turn on the LED of the projector, and let it run for about 5 minutes. Then run a print job to test the projector with the heaters unplugged.

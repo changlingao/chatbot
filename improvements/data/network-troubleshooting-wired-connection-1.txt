@@ -1,0 +1,4 @@
+Network troubleshooting for wired connection first solution
+If you are experiencing network connection issues with a wired connection, follow the troubleshooting steps below.
+Select ‘Settings’ from Main Menu and make sure ‘Automatic Configuration’ is turned on.
+If there is an IP Address showing, your printer is connected to the network.

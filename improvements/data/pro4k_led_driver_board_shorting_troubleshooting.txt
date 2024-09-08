@@ -1,0 +1,2 @@
+Category is PRO4K. LED driver board shorting troubleshooting.
+A component can cause the printer to not boot up. The power board is located behind the right side panel, towards the bottom of the printer. First, disconnect the 2 heater power cables on the left and see if the printer can boot up. If it can't, re-connect the 2 heater power cables, and disconnect the 2 projector power cables on the right-hand side. If the printer can boot up, then the issue is the LED driver board of the projector.

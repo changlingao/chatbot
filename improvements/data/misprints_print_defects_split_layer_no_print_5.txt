@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 5.
+If it is an issue with trapped volume and suction effect, delaminating the layers of the model, please open a support ticket and attach the model you send to the printer? To do so, please load the model into Composer, click FILE> EXPORT BUILD, this will create a ZIP file, please then attach the ZIP file onto the ticket.

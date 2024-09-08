@@ -1,0 +1,7 @@
+MAX X Build tray options 
+Asiga MAX X build trays are available in the following configurations:
+- 1 litre
+- 2 litre
+- 5 litre
+- 10 litre
+Build trays have a set lifespan programmed into them. This is controlled by the RFID tag on the back of each tray.

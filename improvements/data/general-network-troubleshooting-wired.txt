@@ -1,0 +1,3 @@
+General Network troubleshooting wired
+Please navigate to the printer's Settings and ensure that wireless direct is disabled. Then, access the wired network settings and verify that automatic configuration is enabled. If an IP address is displayed, you should be able to connect to your printer.
+

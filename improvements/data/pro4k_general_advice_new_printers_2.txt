@@ -1,0 +1,2 @@
+Category is PRO4K. General advice for new printers 2
+Please check the platform calibration, and apply downward pressure to the platform when tightening the calibration screw, and the grub screw, to avoid the platform shifting during the process. Also double check with a piece of paper to see if there are any gaps under any of the corners of the platform after tightening the screws.

@@ -1,0 +1,2 @@
+What is Multi-Range?
+Multi-Range allows users to select different layer thicknesses or change advanced parameters throughout a build using print ranges. This also allows users to print using different materials together.

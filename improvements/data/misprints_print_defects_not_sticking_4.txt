@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print not sticking to build platform 4.
+Increasing the burn in exposure is a bit of a workaround. The default should work, but a non parallel platform may be the underlying cause. A failed print on your Asiga 3D Printer can occur from multiple causes such as a dirty glass where the resin vats sits, zero position calibration is out of alignment, or even debris in the resin. 

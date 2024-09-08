@@ -1,0 +1,39 @@
+# syntax=docker/dockerfile:1
+
+# Use an official Python runtime as a parent image
+FROM python:3.9-slim
+
+# Set the working directory in the container
+WORKDIR /chatbot
+
+# Copy the current directory contents into /chatbot at the container
+COPY . /chatbot
+
+# Install any needed packages specified in requirements.txt
+RUN python -m pip install -r requirements.txt
+
+# which ports the container will listen on
+EXPOSE 5000
+
+# Define environment variable
+
+# Run app.py when the container launches
+CMD ["python", "frontend/routes.py"]
+
+
+
+NOTES
+
+# every time after update the application
+$docker stop container-id
+$docker rm container-id
+
+# build the image:
+$docker build -t chatbot-image .
+# start a container: (HOST:CONTAINER, publish container port to host)
+$docker run -dp 5000:5000 chatbot-image
+
+trick to be accessible from localhost in mac
+1. 127.0.0.1:5000 -> 0.0.0.0
+2. app.run(host='0.0.0.0', port=5000)
+

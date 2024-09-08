@@ -1,0 +1,2 @@
+General Separation acceleration
+Evaluate the severity of tray marks and their impact on printing. Test with a short print for quality assessment. Adjust Separation Acceleration to 0.2 or 0.1 for smoother separation, albeit slightly slower speeds. Compensate with Fast Print Mode if needed.

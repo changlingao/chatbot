@@ -1,0 +1,8 @@
+Starting a print from the printer screen
+1. Select Print on the printer screen
+2. Select one of the following options:
+    - Next Build (lists the next build in the print queue)
+    - Repeat Build (allows you to repeat the previous print)
+    - Select Build (select from a list of all builds in the print queue)
+3. Auto shutdown is an option that will turn the printer off when the print is finished. Select Continue.
+4. Confirm that your tray is filled with the correct material and select Yes.

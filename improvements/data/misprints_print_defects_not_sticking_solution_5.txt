@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print not sticking to build solution step 5. 
+Step 5: Resend the print job from the Asiga Composer software confirming that correct material is selected and the objects are supported properly.

@@ -1,0 +1,4 @@
+Category is uncategorised. Intensity is too high due to dust.
+Is the printer in the same room as milling machines or possibly where gypsum models are being processed, so there's potentially lots of microdust in the room.
+If so, please consider changing the location of the printer to a less dusty room.
+If the internal UV sensor is reading a higher value than the actual calibrated light intensity, this will cause Composer to calculate shorter exposure times, leading to printing issues.

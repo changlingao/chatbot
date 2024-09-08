@@ -1,0 +1,13 @@
+Access printer via web interface
+The printer's web interface allows you to interact with the printer from your computer.
+
+There are two ways to access the web interface:
+Autodetect in Composer
+- Ensure your printer is connected to your network
+- Select New
+- Select your target printer
+- Click on the Earth Icon
+Known IP address or printer name
+- Open your web browser
+- Type into the address bar: http://<printer name or IP address>
+- Hit enter

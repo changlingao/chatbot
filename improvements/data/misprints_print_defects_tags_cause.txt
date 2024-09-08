@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Tags on print cause.
+Extra cured material could be due to light scattering, which is typical for a dirty optical light path. What happens when the light path is dirty is that the "smudges" will scatter the projector light and will cure areas which are not supposed to be cured.

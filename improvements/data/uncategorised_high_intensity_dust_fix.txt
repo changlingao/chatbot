@@ -1,0 +1,6 @@
+Category is uncategorised. Intensity is too high, fixing remotely.
+Guide for fixing:
+- remove the build tray from the printer and ensure the build platform is clean
+- close the hood of the printer, to show LED light
+- go to Maintenance> Service> LED> Calibrate Radiometer and confirm and SAVE the value, which should be 13.56
+- verify if the internal UV sensor changed, go to Maintenance> Service> LED> Radiometer and check if the value reads approximately the calibrated value of 13.56

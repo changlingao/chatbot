@@ -1,0 +1,9 @@
+Sounds great, how do I start using multi range? 
+Activating Multi Range is simple in the Advanced Parameters of Composer.
+1. Start by opening your build
+2. Open the build wizard and navigate until you get to this screen 
+
+By default there are 2 ranges:
+1. Burn-In
+2. Range 1
+Click Add Range to add a range.

@@ -1,0 +1,8 @@
+What is delamination?
+Delamination, commonly referred to as layer separation, is a print defect that occurs when two or more layers have not bonded together properly. Here are two examples of delamination:
+- https://support.asiga.com/wp-content/uploads/2022/08/delaminating2.jpg
+- https://support.asiga.com/wp-content/uploads/2022/08/delaminating.jpg
+
+Known causes and their solutions are:
+1. Insufficient Supports - The number one cause of delamination is incorrect placement of supports.
+2. Low material level - If the material level is too low, you may see delamination.

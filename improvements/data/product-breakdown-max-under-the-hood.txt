@@ -1,0 +1,13 @@
+Product breakdown of MAX under the hood
+1. Build Platform Holder
+The build platform holder is the arm that protrudes from the vertical stage.
+2. Build Platform
+The build platform is the centerpiece of the MAX. It is engineered from anodised steel making it extremely durable.
+3. Basin
+The basin holds the resin tray and acts as a gateway between the resin and UV light. This glass plate must be kept crystal clean and free from debris. For more information on cleaning the basin glass, please visit: https://support.asiga.com/maintenance-schedule-max/#cleaning-the-glass-surfaces
+4. Build Tray
+Build trays contain the resin during the printing process. They are constructed of a flexible film within a rigid plastic frame. Do not use the same Build Tray for multiple materials as this may create material cross-contamination and transfer of uncured materials. For more information on build trays, please visit: https://support.asiga.com/maintaining-the-build-tray/
+5. Build Tray Clamps
+The clamps are designed to hold the basin in place during the printing process.
+6. Asiga SPS™ technology
+Asiga SPS™ technology is managed by 4 position encoders that surround the basin glass. These sensors detect actual build platform positioning to ensure the layers in your 3D printed part are formed accurately.

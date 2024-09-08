@@ -1,0 +1,2 @@
+Web interface build queue tab
+The build queue provides you with an overview of print jobs queued in your printer.

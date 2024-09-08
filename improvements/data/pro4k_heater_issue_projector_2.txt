@@ -1,0 +1,2 @@
+Category is PRO4K. Heater causes issues checking projector 2
+Unplug the projector power plugs, repeat the previous heater tests. If results are same as before, the projector could be drawing excessive power in the background. Check the log files for i2c errors, as the projector could be causing power issues. If the same results, the power supply might be unable to supply enough power to the heating circuit, and needs to be replaced. Show us the results to determine the replacement part to send.

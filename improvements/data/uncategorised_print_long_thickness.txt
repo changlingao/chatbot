@@ -1,0 +1,2 @@
+Category is uncategorised. Print took a long time due to issues with thickness. 
+If you were printing with a 10 micron layer thickness, the small layer thickness is the most likely problem, as it takes time to squeeze out the resin between exposures. If you are able to increase the layer thickness, the print times will improve. If you repeat the print, the estimate should be closer to correct, as the printer uses the time of last print to help work out the estimate for the current print.

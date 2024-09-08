@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaGUIDE general recommendations
+Implant surgial guides, gingivectomy surgical guides, bone reduction guides and implant abutment positioning guards are recommended to be built with 100 µm	layer thickness. Parts should be oriented so the implant drilling hole is horizontal to the build platform. If a guide has more than one implant drilling hole, position the guide so all the holes are as horizontal as possible.

@@ -1,0 +1,2 @@
+Category is Trays. Leaking tray common causes.
+It is important to support models correctly to avoid parts detaching during printing as any debris from incorrectly supported prints can be crushed into the film during printing, and cause indentations in the tray or a leak. Make sure to clear any debris from the tray between prints. If it is leaking due to a manufacturing error, we can replace the tray under warranty. If this leaking was due improper setup of the print, we cannot replace it.

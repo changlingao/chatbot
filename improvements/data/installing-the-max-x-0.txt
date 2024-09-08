@@ -1,0 +1,9 @@
+Installing the MAX X or MAX
+To install the MAX X or MAX, please perform the following steps:
+1. Connect to a power source
+2. Select a language for the printer
+3. Register the printer on your Asiga account
+4. Connect to your MAX X printer through either a wired/ethernet connection, wifi or a wireless connection
+5. Calibrate the build platform
+6. Validate the build platform
+7. Insert the build tray and resin

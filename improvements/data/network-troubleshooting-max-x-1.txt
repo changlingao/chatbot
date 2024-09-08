@@ -1,0 +1,6 @@
+Initial network troubleshooting for the MAX X on a wired connection
+If you are experiencing network connection issues, follow the troubleshooting steps below. 
+1. Select ‘Settings’ from Main Menu. 
+2. Select ‘Wired Network’. 
+3. Make sure ‘Automatic Configuration’ is turned on.
+If there is an IP Address showing, your printer is connected to the network.

@@ -1,0 +1,5 @@
+Installing the PRO 4K XL or PRO 4K. Connecting to your printer on a wifi connection.
+To connect to your printer on a wifi connection, please perform the following steps:
+1. From the Main Menu, select 'Settings' (https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu.jpg)
+2. To set up a WiFi Connection, select wireless network (https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless.jpg)
+3. Tap on Network Name and select your network from the dropdown list. Note that Wireless Direct must be turned off. (https://support.asiga.com/wp-content/uploads/2022/07/Settings-Wireless-Menu.jpg)

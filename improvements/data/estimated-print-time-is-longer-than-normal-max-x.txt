@@ -1,0 +1,4 @@
+Estimated print time is longer than normal
+If this is the first time you start a build on a printer, it is normal for the estimated print time to be wrong. If your previous build failed, it is likely that the estimated print time is wrong. Composer will calculate an estimated print time based on material, exposure settings, part height, etc. If a print takes longer than Composer calculated, this will be communicated and the software will recalculate accordingly.
+
+One possible reason for incorrect estimated build time is trapped volume in models.

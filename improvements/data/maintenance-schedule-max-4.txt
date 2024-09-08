@@ -1,0 +1,2 @@
+Validating the calibration on MAX
+After the platform calibration, Asiga recommends double checking and validating the calibration. This will ensure your printer remains running as smoothly as possible. For instructions on how to validate the calibration, please refer to the following video: https://player.vimeo.com/video/733851961

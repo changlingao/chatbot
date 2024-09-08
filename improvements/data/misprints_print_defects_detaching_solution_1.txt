@@ -1,0 +1,5 @@
+Category is Misprints & Print Defects. Prints detaching solution step 1. 
+To help get you up and running please perform the following steps:
+Step 1: Clean the Resin Vat bottom:
+Max-https://support.asiga.com/maintaining-the-build-tray-max/#cleaning-the-build-tray
+4K-https://support.asiga.com/maintaining-the-build-tray-pro-4k/#cleaning-the-build-tray

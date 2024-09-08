@@ -1,0 +1,2 @@
+Category is PRO4K. Parts wrong size factors 1.
+Which resin are you printing with? Do you check the fit after you print the parts, and clean the models in alcohol? Or do you check the fit after having post-cured the models? It is possible that the post curing process is affecting the sizing.Please be sure to avoid trapped volume/suction cups when printing parts (hollow models), as it can affect the size as well.

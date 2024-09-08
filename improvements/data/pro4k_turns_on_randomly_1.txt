@@ -1,0 +1,2 @@
+Category is PRO4K. Turns on randomly.
+Please check with the red switch with the rear panel on and the printer turned off by the front panel. Remove the right side panel, and unplug the power switch. If the printer turns on when the button is unplugged, it is not due to the button. If after a few nights of testing like this, e.g over the weekend, it is clear that having the button unplugged prevents the random starting issue, then the problem is probably the power button.

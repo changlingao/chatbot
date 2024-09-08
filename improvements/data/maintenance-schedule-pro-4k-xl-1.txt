@@ -1,0 +1,2 @@
+Maintenance on the PRO 4K XL
+It’s best practice to keep your Asiga printer as clean as possible by cleaning up resin drops or spills with IPA (Isopropyl Alcohol) and preventing dust build up. Asiga recommends using a microfibre cloth with cold water to wipe down the outside of the printer. You should also keep the basin glass clean, regularly calibrate the platform and keep the firmware up to date.

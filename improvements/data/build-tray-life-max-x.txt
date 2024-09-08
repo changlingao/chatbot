@@ -1,0 +1,7 @@
+MAX X and MAX Build Trays
+MAX X and MAX Build Trays come in the following configurations:
+- 1L
+- 2L
+- 5L
+- 10L
+Build Trays are constructed from a rigid plastic outer frame and a film membrane. The Build Tray holds liquid resin during the 3D printing process. This film membrane is subject to wear & tear and over time will show signs of fatigue. This wear can impact print quality & possible risk of damage to the printer. It is important to monitor the condition of the Build Tray. The capacity means the tray will print that amount of liquid resin before it stops working.

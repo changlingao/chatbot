@@ -1,0 +1,2 @@
+Category is PRO4K. Test heater checking left side.
+Turn the printer off, then plug in the bottom heater plug on the power board at the bottom of the printer. This should be for the left hand side heater. Then turn the printer on, and test if the heater causes any shutdown issue, when only the left side (bottom heater cable and plug) is plugged in. If it runs ok, check the right side.

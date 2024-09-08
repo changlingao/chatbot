@@ -1,0 +1,4 @@
+SuperWAX printing guide printing 
+Print speed of SuperWAX is determined by local temperature of the layer being cured. Separation should start when the layer has cooled down below 30°C (86°F). 
+1. Reducing light intensity to +/- 7 mW will increase your exposure times but allow reduction of wait times after exposure as less heat will be generated. 
+2. Wait time after approach can be reduced to lower valued if the cross section of the object is smaller. Larger cross sections generate more heat, which take longer to dissipate. Use the multi-range feature for this.

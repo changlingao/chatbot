@@ -1,0 +1,3 @@
+Composer Duplicated facets
+When you encounter the "duplicated facets" error in Composer, you can click on "Show Details." If Composer indicates that the error message is related to the STM file, it won't cause any issues. This simply means that the supports on the model are overlapping, and Composer mistakenly identifies them as duplicated facets.
+However, if you click on "Show Details" and it specifies that the error is with the actual STL file, then there is a problem with the STL file itself. You can address these issues using functions in your design software, such as mesh repair, mesh healing, boolean operations, etc.

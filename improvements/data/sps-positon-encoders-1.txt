@@ -1,0 +1,2 @@
+Position Encoders. What is SPS technology?
+Position encoders provide platform position feedback ensuring your build platform is where it needs to be for every layer guaranteeing Z height precision. Because these sensors are so sensitive, it is normal for them to move around. The values shown in the left column represent the weight and should show similar values.

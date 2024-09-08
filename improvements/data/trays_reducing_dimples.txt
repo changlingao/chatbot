@@ -1,0 +1,7 @@
+Category is Trays. Reducing tray dimples.
+Please try the following:
+- Set the Light Intensity in the Advanced Parameters to 2mW
+- Set the Separation Acceleration to 0.1mm/s
+- Run a print with these parameters and see if the dimples reduce or disappear entirely
+- If they do disappear, then you can increase the Separation Acceleration to 0.2mm/s
+When doing these adjustments, enable the Fast Print Mode and Separation Detect, to compensate for reduced printing speeds.

@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 3.
+Delamination can be caused by a few things, usually from trapped volume, please try to place the drain hole lower down on the model. You can try to remove the supports, and the base plate, and then add drain holes to the bottom of the model. Place the model directly on to the build platform for better adhesion. If you have drain holes, then the resin can flow and will not be trapped, improving the print results.

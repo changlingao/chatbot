@@ -1,0 +1,8 @@
+Installing the MAX X or MAX. Printer registration.
+To register your printer, please perform the following steps:
+1. Create an Asiga account to access the Material library, software downloads and technical support using the following link: https://myaccount.asiga.com/accounts/register
+2. Navigate to www.asiga.com/register and insert the printer serial number displayed on your printer screen. (https://support.asiga.com/wp-content/uploads/2022/07/Product-Registration_1000JPG.jpg)
+3. Fill out the serial number and printer location fields, and click 'Activate.' (https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga-Admin.jpg)
+4. Enter the activation code on the front panel of your printer. (https://support.asiga.com/wp-content/uploads/2022/07/Registration_Asiga_Admin_activationcode.jpg)
+5. Enter the registration code and click 'Register.'
+Your printer should now be fully operational.

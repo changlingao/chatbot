@@ -1,0 +1,2 @@
+Category is PRO4K. Half projector image test.
+Sometimes only half of the image is printed, please check the projector image with the focus glass (wear the orange glasses). Go to Maintenance>Focus while the glass focus plate is on the basin glass, see if the focus image is displayed in full or half.

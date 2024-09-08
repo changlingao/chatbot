@@ -1,0 +1,5 @@
+Category is Composer. How to get composer model.
+1. Have the (supported) models nested in Composer
+2. In the top left corner of Composer, click FILE> EXPORT BUILD, this will generate a ZIP file that contains the composer model
+
+

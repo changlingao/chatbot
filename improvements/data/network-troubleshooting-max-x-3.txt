@@ -1,0 +1,5 @@
+Initial network troubleshooting for the MAX X on a wireless connection
+1. Select ‘Settings’ from Main Menu. 
+2. Select ‘Wireless Network’
+3. Make sure that wireless network & automatic configuration are enabled.
+If your printer is showing a network name, it is connected to the network.  

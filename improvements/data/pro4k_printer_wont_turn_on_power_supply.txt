@@ -1,0 +1,2 @@
+Category is PRO4K. Printer won't turn on due to the power supply.
+Are you using an uninterruptible power supply (UPS)? If so, it needs to be at least 600W, preferably 750W.

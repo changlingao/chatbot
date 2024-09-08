@@ -1,0 +1,2 @@
+Category is Trays. Low force trays printing.
+There is no advantage when printing large cross sections (on the contrary, the pulling force of larger areas can stretch the thin films easier). It will print with less stress on printed parts, and is recommended for resins that are viscous in the tray, or flexible when printed.

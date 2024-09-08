@@ -1,0 +1,4 @@
+Updating MAX firmware & software
+You can check if there is a new firmware available for your printer by clicking on the "ASIGA" logo in Composer for recent announcements. To update to newer firmware:
+1. Download the latest version
+2. Upload the firmware to your MAX by following this link: https://myaccount.asiga.com/accounts/firmware/

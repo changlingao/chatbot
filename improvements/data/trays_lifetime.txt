@@ -1,0 +1,3 @@
+Category is Trays. Tray lifetime.
+You will see the lifetime of the build tray after having finished a print, displayed on the front screen in percentage. Once the tray reaches 100%, the lifetime is expired.
+You can also manually verify the RFID tag, by placing the build tray into the machine and then going to the printers Menu> System> Tray Data.

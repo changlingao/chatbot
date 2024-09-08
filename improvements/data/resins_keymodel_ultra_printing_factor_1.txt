@@ -1,0 +1,2 @@
+Category is Resins. Keymodel Ultra printing factor one
+There are multiple material files for the Model materials, and the files are either ending in 100 micron or 50 micron. When using one or the other file, 50 or 100 microns, the models have to be printed at 50 and 100 microns slice thickness, depending on which material files is being used. This was not the case for some of the set-up prints.

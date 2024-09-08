@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print not sticking to build platform 2.
+If the print detaches from the platform, the platform calibration needs redoing. Ensure the build platform is parallel, else it can cause partial detachments. During platform calibration, put downward pressure on the black knob while tightening the calibration screw. Use paper to check there are no gaps under the platform corners so it is parallel. Also stir the resin thoroughly before printing to avoid issues.

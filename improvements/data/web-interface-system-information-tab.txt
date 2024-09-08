@@ -1,0 +1,10 @@
+Web interface system information tab
+System information provides you with operational information on you printer and access to the printer logs. These logs are very important for any technical support request as they will provide our Asiga technicians with invaluable technical information specific to your printer. 
+
+The following logs are available:
+- Debug Information
+- Error Log
+- BuildLog ini
+- Printer ini
+To download the logs, right click and "save as".
+

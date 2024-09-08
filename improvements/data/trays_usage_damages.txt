@@ -1,0 +1,4 @@
+Category is trays. Usage damages on the build tray film.
+- debris/layers at the bottom of the tray when starting a new job
+- small fractions of the printed model detached during printing
+- protruding engravings on the model which often don't print complete and will build up in the build tray, etc

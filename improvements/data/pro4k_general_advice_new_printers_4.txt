@@ -1,0 +1,2 @@
+Category is PRO4K. General advice for new printers 4
+There have been a few firmware updates for the pro 4k, please also update to the latest firmware. Firmware and instructions can be found here: https://www.asiga.com/accounts/firmware/21/

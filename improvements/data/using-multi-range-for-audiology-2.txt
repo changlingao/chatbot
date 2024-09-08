@@ -1,0 +1,5 @@
+When would multi range be useful? 
+1. To speed up the range that involves Baseplate and Supports
+2. To reduce Light Intensity for the transition from cone/supports to model to extend tray life time and prevent delamination or suction cup damage
+3. To speed up the part of the object that has no top surfaces with shallow angles
+4. We can optionally add a range that smoothens out top surfaces with shallow angles by reducing layer thickness

@@ -1,0 +1,2 @@
+Category is PRO4K. General advice for new printers 3
+It would help if you could attach the printer.ini file and the resin you are using to the ticket. To get that file, please open Composer, click New Build, click your target printer, then click the blue globe icon in the top right corner, a web browser will open, please go to the tab System Information and you will see View Printer.ini. Right click that file and click Save Target As/ Save Link As to download the text file.

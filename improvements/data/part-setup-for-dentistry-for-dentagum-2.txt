@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaGUM recommendations
+Gingiva mask is recommded to be built with 100-150 µm slice thicknesses, and should be oriented so that they are horizontal touching the build platform on a flat plain.

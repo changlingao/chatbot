@@ -1,0 +1,4 @@
+SuperWAX printing guide postprocessing 
+1. Use an ultrasonic knife or sharp knipex to remove supports.
+2. Cut the supports 0.5-1mm outside of part to prevent breakage. We suggest to cast with these support bumps and remove them from the cast metal rather than from the brittle SuperWAX.
+3. Temperature of the IPA should never exceed 29°C (85°F) to prevent deformation. Cleaning should be as short as possible, please refer to the IFU.

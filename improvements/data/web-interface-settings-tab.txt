@@ -1,0 +1,4 @@
+Web interface settings tab
+In the settings tab you can view, set, and lock your printer's build extents, and hide service menu features. This is a handy feature in a production environment if no settings are to be changed without authorisation.
+
+**Asiga does not advise modifying the build extents without supervision from an authorised reseller or Asiga. Changing the build extents will cause loss of accuracy!**

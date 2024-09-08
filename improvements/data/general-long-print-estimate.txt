@@ -1,0 +1,4 @@
+General Long print estimate
+The estimated build time can change based on several factors from previous prints. If there was a long time to print a layer due to slight platform calibration issues or if there is debris in the tray, it will affect the calculated value later.
+Additionally, if there was a previous approach fail error, it will impact the estimated print time for the next job. Other possible causes include debris in the resin, print job detachment, or incorrect platform calibration. If the customer resolves the issue from the earlier print failure and runs a shorter print job while ignoring the initially long estimated time, it will print at a roughly normal speed and correct the layer time compensation. Subsequent prints will then have a more realistic estimated print time.
+

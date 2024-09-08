@@ -1,0 +1,2 @@
+Composer Separation detect
+Separation detect uses the encoders to determine when the print has detached from the film. If it is turned off, the platform will rise more to ensure detachment, thereby ensuring that resin will flow completely under the printed model.

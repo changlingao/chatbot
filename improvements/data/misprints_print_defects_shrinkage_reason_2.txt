@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Shrinkage of parts. Reasons 2.
+Please ensure firmware and composer are up to date. If a third party material is being used, check for the updated version of that material file. Also ensure the optical light path is absolutely clean. If too dirty, it can scatter the light and lead to dimensional inaccuracy. Therefore please check the basin glass from both sides, the mirror below and also the surface of the projector lens from the side of the machine.

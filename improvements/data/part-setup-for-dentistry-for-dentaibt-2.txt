@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaIBT recommendations
+Indirect bonding trays are recommended to be built with a 100 µm layer thickness and should be oriented so that they are horizontal touching the build platform on a flat plain.

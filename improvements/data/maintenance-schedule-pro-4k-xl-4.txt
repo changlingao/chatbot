@@ -1,0 +1,4 @@
+Updating PRO 4K XL firmware & software
+You can check if there is a new firmware available for your printer by clicking on the "ASIGA" logo in Composer for recent announcements. To update to newer firmware:
+1. Download the latest version
+2. Upload the firmware to your PRO 4K XL by following this link: https://support.asiga.com/web-interface-max/#update-firmware

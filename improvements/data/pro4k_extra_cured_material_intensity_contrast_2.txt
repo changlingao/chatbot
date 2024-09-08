@@ -1,0 +1,2 @@
+Category is PRO4K. Extra cured material, intensity, contrast ratio stage 2.
+Check LED intensity with an external radiometer. Wear the orange UV protective glasses in the printer toolkit. Go to Control>LED and turn on the projector LED. Measure light intensity in 5 spots or even 7 spots for a greater sample: in the top left corner, top right corner, center, center left, center right, bottom left, and bottom right corner. Make notes of these measurements. Provide this data in the support ticket.

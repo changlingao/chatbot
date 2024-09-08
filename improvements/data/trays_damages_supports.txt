@@ -1,0 +1,2 @@
+Category is trays. Tray damages and supports.
+You can open up a ticket and send us one of the prints which last caused damage to the build tray film and we can check for any inconsistencies. If you have used supports, we would please need to see the fully supported model. To do so, please load the fully supported model/s into Composer, then clock FILE> EXPORT BUILD, this will create a ZIP file, please then attach the ZIP file onto the ticket.

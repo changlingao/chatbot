@@ -1,0 +1,2 @@
+PRO4K Printer won't turn on troubleshooting 1
+Remove the right panel, the power distribution board is near the printer bottom. Unplug the four power connectors, does the printer turn on? (everything else plugged in) If so, turn it off, and plug in the two heater power plugs and see if it turns on. If it does, turn off the printer, unplug the two heater plugs, and plug in the two projector power plugs. If it doesn't turn on at all, the problem is the power supply/or power distribution board.

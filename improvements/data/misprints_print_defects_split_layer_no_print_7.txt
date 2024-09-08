@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print split layer did not print 7.
+You could try to run the print without fast print mode and separation detect and see if this makes a difference and if you can see the same defects on the printed models.

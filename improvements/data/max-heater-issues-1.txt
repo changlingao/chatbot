@@ -1,0 +1,4 @@
+MAX Heater issues part 1
+The heater in the Max printer can reach temperatures about 10 degrees Celsius above ambient. It is tested to reach temperatures of approximately 35 degrees Celsius.
+For better understanding, Asiga has conducted tests to assess the impact of temperature on a range of different resins. It has been found that temperature is not as critical as previously thought. Asiga has consequently reduced the printing temperature for most resins to 28°C or 26°C, or has disabled it altogether.
+Most resins will print well within the range of 20°C to 30°C. 

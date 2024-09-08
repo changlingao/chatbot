@@ -1,0 +1,21 @@
+
+ConversationalRetrievalChain: Chain for having a conversation based on retrieved documents.
+Chain: that adds some functionality around language models.
+LLM: can understand and generate human language text
+This chain takes in chat history (a list of messages) and new questions, and then returns an answer to that question. The algorithm for this chain consists of three parts:
+1. Use the chat history and the new question to create a “standalone question”. If only the new question was passed in, then relevant context may be lacking.
+2. This new question is passed to the retriever and relevant documents are returned.
+3. The retrieved documents are passed to an LLM along with the new question and chat history to generate a final response.
+
+RAG: Retrieval-Augmented Generator
+retrieve data from external knowledge base
+augment your prompts by adding the retrieved data in context
+generate the answer based on the prompt
+
+
+embedding: create a vector representation of a piece of text based on semantic meaning
+vectorstore: vector database (Chroma)
+# vectorstore = Chroma.from_documents(documents=all_splits, embedding=OpenAIEmbeddings())
+can retrieve in the database
+# retriever = vectorstore.as_retriever()
+

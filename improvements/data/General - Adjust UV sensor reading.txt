@@ -1,0 +1,5 @@
+﻿Category is General. How to adjust UV sensor reading
+To adjust the internal UV sensor:
+1. Please remove the build tray from the printer and ensure the build platform is free from any resin.
+2. Go to Maintenance> Service > LED > Calibrate Radiometer, re-confirm the current value that you can see there (which should be XXXX) and Save it, that will re-adjust the internal UV sensor .
+

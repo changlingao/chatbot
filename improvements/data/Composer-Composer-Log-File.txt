@@ -1,0 +1,7 @@
+Category is Composer. How to access Composer Log File from a temporary folder.
+1. With Composer running, open Windows Explorer
+2. Enter into the address bar %TEMP%
+3. Open the last (most recently) modified Composer.*~ folder
+4. Log files will be in the folder.
+
+

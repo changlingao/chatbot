@@ -1,0 +1,146 @@
+Sep
+performance: nonsense, fallback
+tuning
+- Performance: Lost in the middle: The problem with long contexts https://python.langchain.com/docs/modules/data_connection/document_transformers/post_retrieval/long_context_reorder
+- best chunking strategy? Evaluating the Performance of Each Chunk Size (testing for three)
+- all kinds of retriever: https://python.langchain.com/docs/modules/data_connection/retrievers/
+chunk_size, chunk_overlap, temperature
+
+Oct
+happy reading docs
+investigate langsmith
+essentially investigate every step and go deeper
+
+1. hi - I apologize for the confusion. As a chatbot, I am here to assist you with any questions you may have about Asiga and their products. Please let me know what specific information you are looking for, and I'll do my best to help you.
+Prompt engineering
+original prompt: Given the following conversation and a follow up question, rephrase the follow up question to be a standalone question, in its original language.
+version 1: If you need context, then rephrase the follow up question to be a standalone question, given the following conversation and a follow up question, in its original language. Otherwise, the standalone question should be the similar as the follow up input.
+final version: Return text in the original language of the follow up question. If the follow up question does not need context, return the exact same text back. Never rephrase the follow up question given the chat history unless the follow up question needs context.
+consider cost: maximum context size = input tokens+output tokens, fewer tokens mean a cheaper service and faster completions from the LLM.
+
+2. okay - i am sorry i am not sure what your question is....
+prompt: Never use the retrieved information to answer question unless the retrieved information is relevant to the question.
+Retrieved Information: 62 15 84 (https://support.asiga.com/wp-content/uploads/2022/08/Support-Dialogue.jpg).
+because of the retrieved information is nonsense
+prompt Use the following pieces of context to answer the question at the end. Context:
+fix retriever: filter retrieved docs so fix the reply with too much info
+
+LLM
+temperature: randomness ( 0 lowest)
+top p: 1: use all tokens in the vocabulary
+top k: top k most likely words
+
+chunk
+continuity in boundary
+complicated: not go into details
+https://python.langchain.com/docs/modules/data_connection/document_transformers/#text-splitters
+1. Split the text up into small, semantically meaningful chunks (often sentences).
+2. Start combining these small chunks into a larger chunk until you reach a certain size (as measured by some function).
+3. Once you reach that size, make that chunk its own piece of text and then start creating a new chunk of text with some overlap (to keep context between chunks).
+
+
+
+dataset evaluation
+https://docs.smith.langchain.com/category/testing--evaluation
+
+requests.exceptions.HTTPError: [Errno 409 Client Error: Conflict for url: https://api.smith.langchain.com/sessions] {"detail":"Session already exists."}
+essentially is conflict for project name, unique id for unique project name
+# https://smith.langchain.com/o/f5084cc7-ceea-552e-a99e-949134d66a0b/projects/p/e38c5363-e72d-413e-9b64-5c7f36380d51
+even though the dataset is different, the project name still has to be different
+
+has some issue with memory:
+ValueError: Cannot directly evaluate a chain with stateful memory.
+To evaluate this chain, pass in a chain constructor that initializes fresh memory each time it is called.
+This will safeguard against information leakage between dataset examples.
+Essentially, each run is individual unit, cannot test the memory function in chatbot
+
+
+
+LangSmith: a unified platform for debugging, testing, and monitoring your LLM applications.
+doc: https://python.langchain.com/docs/guides/langsmith/
+Amazing functions: but not mature enough for production
+    Building an automated feedback pipeline (link).
+    How to evaluate and audit your RAG workflows (link).
+    How to fine-tune a LLM on real usage data (link).
+    How to use the LangChain Hub to version your prompts (link)
+
+langsmith is not working for the memory, each run has the previous run's chat history crazy long
+so memory is essentially the chat history, so the chatbot can rephrase question that refer to previous context.
+large dataset testing: each run has to be independent to avoid data leak, so the memory cannot be tested
+But from LECL version, it passes the chat history with the question as the param.
+    This can be a way but cannot be automated, not different from manual testing
+
+Testing
+Unit testing: there was no easy solution for this.
+Tweak a prompt to make it work for one scenario, this can lead to breaking another scenario
+E2E testing: End-to-end testing evaluates the entire application flow, from start to finish, under real life circumstances.
+Testing technique: damn this is so much to do, maybe refine in production... lost interest
+
+
+
+Evaluation
+benchmark dataset: context, question, ground_truth, answer
+Not conducted by me, but I have one solution
+- evaluate in LangSmith: dataset as benchmark, and run with certain criteria like helpfulness and relevance determined by another llm
+- (use framework RAGAS: can evaluate retriever and feed in context)
+- Wilson's testing: run sample question and compare the answer with standard answers
+- damn there is evaluation without LangSmith: https://python.langchain.com/docs/guides/evaluation/
+
+FAISS:
+for better similarity search, can be used in GPU
+# db = FAISS.from_documents(docs, embeddings) (like Chroma)
+# docs = db.similarity_search(query)
+
+LlamaIndex:
+data framework better at processing data (ingest, search etc)
+vs LangChain: LC can chain tools together
+
+data cleaning
+teammates have done this to filter noise like redundant answer time or something
+so the retrieved data can be better
+
+improve the performance of the RAG
+damn when I first searched performance of chatbot got nothing useful
+https://towardsdatascience.com/10-ways-to-improve-the-performance-of-retrieval-augmented-generation-systems-5fa2cee7cd5c
+
+
+
+host in server: keep running for enterprise application
+- local server:
+    use Ngrok to put localhost on the internet
+    used in SOFT2412 amazing skills
+    (localhost:5000 -> https://d326-129-78-56-149.ngrok-free.app)
+- cloud server:
+    has some more powerful stuff
+    GCP: Create Compute Engine instances, Create HTTP(S) Load Balancers, Use a Content Delivery Network (CDN) for Caching
+
+
+Docker
+image: recipe; container: dish; Dockerfile: specific recipe
+follow this guide: https://docs.docker.com/get-started/02_our_app/ with dockerfile.txt
+damn this is not difficult at all.... the reason I couldn't figure out a year ago is
+    the ED tut is shit, nothing works when i followed the tut.
+    chatgpt is not out yet, which saves my life with explaining all the docker commands
+Use case:
+    - independent of machine and system, package the software
+    - CI/CD: push to GitHub triggers Jenkins to build and run in docker; ensure the push does not break
+    - scalable: parallel containers
+
+
+bundle comparison
+- pyinstaller:
+    packages python code (main.py) and its dependencies into a single binary executable
+    client can run without any setup (cd dist, ./main)
+    cons: depends on the system, mac dist can not be run in linux
+- venv:
+    a good way to handle dependencies: virtual environment with requirements.txt
+    not a standalone executable, need set up, good for programmers
+- docker
+    container packages application and all its dependencies, making it runnable on any system
+    process: I push the image to a Docker registry, client load and run the image, then it's accessible
+
+
+
+generate sample question auto? more testing with various questions
+when bugs occur investigate underlying issue and tuning
+

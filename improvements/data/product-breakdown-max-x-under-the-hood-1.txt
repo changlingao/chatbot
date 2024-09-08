@@ -1,0 +1,2 @@
+Product breakdown of MAX X under the hood. The Build Platform Holder
+The build platform holder is the arm that protrudes from the vertical stage. (https://support.asiga.com/wp-content/uploads/2022/08/max-build-platform-holder.jpg)

@@ -1,0 +1,2 @@
+Duplicated facets STM file error
+If your error message is suffixed by '.stm', you are experiencing an STM error. This error message means there are overlapping supports on the model & can be either ignored or discarded.

@@ -1,0 +1,2 @@
+Category is Resins. Third party resin temporary solution for the rest of the model without material file.
+For the rest of the model, should there be any detachments, you would need to increase the normal exposure time. Here you shouldn't increase the value by too much, otherwise it can overcure the model. Here we could recommend an increase in increments of 50% from the default parameter, until the parts print well.

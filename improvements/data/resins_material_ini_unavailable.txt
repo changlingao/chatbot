@@ -1,0 +1,3 @@
+Category is Resins. Material ini not available.
+The link provided will provide information on Asiga resin materials. https://www.asiga.com/accounts/#tab_material.
+If you don't have the specific resin you need, you have the option to create your own material ini file for that resin. Alternatively, if you want Asiga to make a material ini file, we can do so. This will require you to sends 1L of the resin to our technician in Germany. Apart from the cost of the resin and shipping, there would be no cost for the work involved.

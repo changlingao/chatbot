@@ -1,0 +1,8 @@
+What is the 'Approach Failed' error?
+Asiga 3D printers will attempt to squeeze out resin to the desired layer thickness. If the sensors measure increased resistance, it will display the approach failed error message. This method protects the printer and its components and prevents most tray punctures.
+Approach failed is usually the result of five possible issues:
+1. Debris in the build tray or on the surface of the build platform.
+2. Calibration screw is not sufficiently tight.
+3. Build platform is incorrectly calibrated.
+4. Vibration sources.
+5. Trapped volume or Suction cup.

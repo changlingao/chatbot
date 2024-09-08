@@ -1,0 +1,2 @@
+Category is Resins. Keymodel Ultra material
+A good build platform calibration and cleanliness of the optical light path is important for good performance of the printer. As for the resin, the Keymodel Ultra material can be a tricky material to work with, this is unrelated to the performance of the printer, but related to some properties of the resin. The models tend to shrink, especially at the base, and due to the shrinkage of the base layer, it can lead to detachments due to that shrinkage. 

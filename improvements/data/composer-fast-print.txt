@@ -1,0 +1,4 @@
+Composer Fast print
+The fast print mode will move the platform more quickly whenever possible and enable separation detection by default. It does not affect the accuracy of the printing.
+It's always safe to enable the Fast Print Mode, but you should disable Separation Detection for testing if you encounter print issues.
+The change here involves adding "detection" after "separation" to clarify the action being performed.

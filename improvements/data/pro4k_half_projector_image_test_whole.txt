@@ -1,0 +1,2 @@
+Category is PRO4K. Half projector image test showing whole
+If the whole image is displayed, it can be an issue with the projector locking onto the HDMI signal. If it still only shows half the image, restart the printer and show focus again, to see if you can see the whole focus image. Test by restarting the printer and showing the focus image a few times, it's possible the projector has a glitch and is not properly initializing, or there may be an issue with the HDMI cable in the printer.

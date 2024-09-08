@@ -1,0 +1,2 @@
+Category is Resins. Keysplint other aspects.
+Ensure the latest firmware is installed for your machine, with latest Composer version and Keysplint Soft material ini. There is a customized material ini file online to try, called Keyprint KeySplintSoft_V2.0_SW_008-stronger supports.ini. You can contact your reseller who might be able to guide you directly. Please ensure the latest material.ini file for the keysplint material is used, (Keyprint KeySplintSoft_V2.0_SW_009-advanced_stability.ini).

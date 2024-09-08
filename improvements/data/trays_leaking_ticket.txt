@@ -1,0 +1,2 @@
+Category is Trays. Leaking tray ticket.
+Please open a ticket and load the supported model into composer, and then go to File> Export build. You will then have a zip file you can attach to the ticket. If we can see what you were printing and how it was set up, we can offer advice on how to do this better, which can avoid issues of the tray becoming damaged so much in future. Please attach some photos of the damage to the tray.

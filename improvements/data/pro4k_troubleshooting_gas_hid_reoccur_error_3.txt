@@ -1,0 +1,2 @@
+Category is PRO4K. Troubleshooting gas hid error reoccur step 3.
+The address bar of the web browser will have something like http://192.168.1.123/debug. Please add "?k=1" to the end of the address in the address bar (e.g. http://192.168.1.123/debug?k=1, but with your actual printer IP address instead of 192.168.1.123) and press enter. Save the complete log to file and attach to the ticket with a comment that debug log was saved when the projector is connected directly to Olimex.

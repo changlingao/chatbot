@@ -1,0 +1,2 @@
+Category is PRO4K. Half projector image test showing half
+If the focus image shows in half, the first thing is to try toggling the 4K mode to the other value and back (usually from ON to OFF, and back). The 4k mode setting is under Settings> 4K Mode. See if toggling it resolves the issue and see if now the whole image is displayed.

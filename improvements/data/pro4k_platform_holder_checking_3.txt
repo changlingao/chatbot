@@ -1,0 +1,2 @@
+Category is PRO4K. Platform holder checking 3.
+If the platform holder is working well, then to ensure that the platform is parallel to the glass when calibrating, please apply downward pressure to the black knob when tightening the calibration screw and the grub screw. You can check with a piece of paper that there are no gaps between the platform and the glass after doing this, as seen in this video: https://support.asiga.com/maintenance-schedule-pro-4k/#platform-validation

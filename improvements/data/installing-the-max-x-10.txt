@@ -1,0 +1,2 @@
+Installing the MAX X or MAX. Build platform validation.
+To finalise the build platform calibration, please refer to the following video: https://player.vimeo.com/video/733851961

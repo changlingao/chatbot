@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Shrinkage of parts. Reasons 1.
+There could be several reasons, so more information is required. What material is being used exactly? Was the fit tested right after printing and right after post curing? Sometimes post-curing can lead to distortion of the models. Has an incorrect fit been observed in the past or is this the first time being observed? Do you typically add a clearance for a good fit for parts, such as removable dies?

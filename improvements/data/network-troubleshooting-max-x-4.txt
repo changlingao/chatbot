@@ -1,0 +1,7 @@
+Continued network troubleshooting for the MAX X on a wireless connection
+If your printer is not showing a network name after enabling wireless network & automatic configuration:
+1. Select ‘Network Name’
+2. Search for your network
+3. Input correct password 
+If there are no networks being shown, make sure that ‘Wireless Direct’ is turned off.
+If you are still experiencing technical difficulties, please launch a support ticket using the following link: https://myaccount.asiga.com/accounts/support/0/

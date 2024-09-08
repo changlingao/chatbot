@@ -1,0 +1,10 @@
+Category is Encoders. How to swap encoders.
+Go to Maintenance> Position Encoders> Zero Position Encoders, and check whether the  encoder is showing NaN, which is not a number and not reading properly. 
+
+This issue may be due to the encoder or the encoder board. 
+1. Please turn off the printer, then unscrew the the encoder board from the printer, to make it easier to access the orange plugs.
+2. Temporarily swap encoder 0 and encoder 1, and then turn the printer back on.
+3. Go to Maintenance> Position Encoders> Zero Position Encoders and see if the NaN reading moves or stays in the same place. 
+4. See previous picture encoder board numbered to identify encoder 0, and encoder 1 plugs.
+5. It is advised to text customer support for guided process on how to swap encoders properly as it is fragile.
+

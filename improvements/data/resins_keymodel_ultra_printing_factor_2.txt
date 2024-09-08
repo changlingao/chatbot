@@ -1,0 +1,2 @@
+Category is Resins. Keymodel Ultra printing factor two
+The Keymodel Ultra resin has a high shrinkage rate, especially at the base of the model. If you print for example a flat solid model, which is typically placed directly on the build platform, it’s suggested to place the model onto supports, generate sufficient supports underneath, and print it with a Shadow Type base plate and a base plate thickness of 0.5mm

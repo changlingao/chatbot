@@ -1,0 +1,3 @@
+Category is Resins. Supercast X old and new Composer.
+Recent versions of Composer have the newer material file for Supercast X, which only works with resin made during or after August 2021.
+You can find the latest Composer here: https://myaccount.asiga.com/accounts/software/

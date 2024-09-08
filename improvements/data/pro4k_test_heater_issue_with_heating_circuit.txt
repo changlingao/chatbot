@@ -1,0 +1,2 @@
+Category is PRO4K. Test heater issue with heating circuit.
+If the printer is functioning when the heaters are unplugged, continue to use it without the heater plugged in, as long as the resin is not requiring a high temperature to lower its viscosity, or for some other reason. There is a heater control board and heat element on each side of the printer, check which side the fault is on. If it’s just one side, the printer still has some heating function while waiting for the spare parts.

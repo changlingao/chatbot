@@ -1,0 +1,14 @@
+Category is General. How to calibrate Encoder.
+1. remove the basin of the printer, then go to Maintenance > Service > Position Encoders
+2. Calibrate Position Encoders and enter the mass of your calibration weight. 
+3. Place the weight on each of the encoders in turn, as the process instructs. 
+4. Zero on the encoders and check each one individually so that the blue dot moves to the correct corner when you apply pressure. 
+5. Zero in again and check for stability. 
+6. After replacing the basin, zero again.
+
+MAX version:
+If the following steps does not work, please refer to page 56 from the provided link below for specific instructions. https://myaccount.asiga.com/accounts/resources/MAX/1%20-%20Quick%20Start%20Guide/MAX%20User%20Guide%2020210712.pdf
+
+Pro4k version:
+If the following steps does not work, please refer to page 61 from the provided link below for specific instructions. https://myaccount.asiga.com/accounts/resources/PRO%204K/1%20-%20Quick%20Start%20Guide/PRO%204K%20User%20Guide%2020210712.pdf
+

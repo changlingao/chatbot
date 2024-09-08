@@ -1,0 +1,2 @@
+Part setup for dentistry for DentaBASE recommendations
+The recommended slice thickness for building a denture base is 50-100 µm. Set to 50 µm for higher quality surface or 100 µm for quicker print speed. There should be a 60-80 degree inclination with the intaglio surface towards the build platform. Upper Dentures should be oriented so that the posterior region is closest to the build platform. 	Lower Dentures should be oriented so that the anterior region is closest to the build platform.

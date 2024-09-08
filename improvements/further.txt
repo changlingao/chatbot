@@ -1,0 +1,22 @@
+
+data store:
+- allow to upload more data like: https://github.com/chatchat-space/Langchain-Chatchat
+- store data in gcp or company's storage system (data is updating thu the time) (reduce response time,
+- can use FAISS to embed
+
+commit to Langchain-Chatchat GitHub opensource project: https://opensource.guide/how-to-contribute/
+
+
+challenges in the development:
+- langchain docs change over the time: add some more use cases, and modify the previous code and layout largely
+- new features in just a month: LCEL, LangSmith
+- LLMChain become legacy, prefer to use LCEL which was not released a month ago
+- without langsmith: difficult to debug, with it, we ca trace with every output and input in the chain
+
+
+reading langchain docs:
+- docs: https://python.langchain.com/docs/get_started/introduction
+- use cases: https://python.langchain.com/docs/use_cases/qa_structured/sql
+- tutorials: https://python.langchain.com/docs/additional_resources/tutorials
+- langsmith:
+

@@ -1,0 +1,10 @@
+Installing the MAX X or MAX. Connecting to your MAX X or MAX on a wireless direct connection.
+Wireless Direct allows the printer to act as a wireless access point. This can be used if there is no router available.
+To connect to your printer on a wireless direct connection, please perform the following steps:
+1. From the Main Menu select Settings. (https://support.asiga.com/wp-content/uploads/2022/07/Main-Menu.jpg)
+2. Select Wireless Direct. Note that this will prevent any WiFi connections. (https://support.asiga.com/wp-content/uploads/2022/07/Settings-WirelessDirect-1.jpg)
+
+The default settings for Wireless Direct are:
+- Wireless Network: Printer name
+- IP address: 172.27.10.1
+- Subnet Mask: 255.255.255.0

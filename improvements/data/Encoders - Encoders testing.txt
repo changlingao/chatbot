@@ -1,0 +1,7 @@
+﻿Category is Encoders. Troubleshoot encoders
+1. Check whether the encoders are all responding on the printer. 
+2. Then Remove the tray and platform from the printer.
+3. Go to Maintenance> Position Encoders> Zero Position Encoders. 
+4. Zero the encoders and wait for the blue dot to return to the centre. 
+5. Press on each corner of the basin in turn, and the blue dot will move to the appropriate corner. 
+6. Zero again.

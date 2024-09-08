@@ -1,0 +1,3 @@
+Replacing the damaged build tray
+If the build tray film is damaged it can cause print issues. It is important to maintain the build tray for maximum performance. If the build tray is damaged or stretched out, consider replacing it with a new one to prevent the possibility of misprints.
+For more information on how to maintain the build tray, please follow this link: https://support.asiga.com/maintaining-the-build-tray-pro-4k-xl/

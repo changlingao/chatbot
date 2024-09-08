@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Print not sticking to build platform 3.
+If your print is still not sticking to the build platform, you can increase the adhesion of the first few layers by adjusting the burn in exposure time. Please add 30 seconds to whatever you are using now, and the initial layers will take a bit longer to print, but will be more firmly cured. If it still doesn't stick, add another 30 seconds. This should prevent the print detaching midway through printing.

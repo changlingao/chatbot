@@ -1,0 +1,10 @@
+Category is Composer. Clearing composer settings for Windows.
+It is important to note that reinstalling composer will not remove any settings for composer.To clear composer settings, please follow the steps below:
+1. Browse to Program Files/Asiga/Composer
+2. Press Shift and right click. Select open Powershell window here
+3. Run Composer.exe --profile-reset
+After clearing the settings, please uninstall then redownload and reinstall Composer from here:
+https://www.asiga.com/accounts/software/
+This will provide you with a fresh installation of Composer.
+
+

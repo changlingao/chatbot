@@ -1,0 +1,5 @@
+Approach failed since calibration screw is not sufficiently tight.
+The build platform is subject to a lot of forces during the printing process. If the platform is not sufficiently tight & can move during printing, it will cause obstructions.
+1. Ensure the calibration screw and the knob are both tight before starting a print. See the following image for reference: https://support.asiga.com/wp-content/uploads/2022/08/MAX_Build-platform-holder.jpg
+2. If the build platform is not completely flat against the glass, it will cause an obstruction. This means that one side of the platform touches the glass first. Please check the platform calibration by following this video: https://player.vimeo.com/video/733851961
+3. If the build platform validation fails – please perform the build platform calibration sequence again according to the following video: https://player.vimeo.com/video/733852120

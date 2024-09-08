@@ -1,0 +1,4 @@
+Part setup for dentistry for DentaCAST recommendations
+Crown and bridge metal prosthetics are recommended to be built with a 50 µm layer thickness. The occlusal surface should be facing the build platform. Patient interfacing areas should face away from the build platform.
+Crown and mridge lithium disilicate prosthetics are recommended to be built with a 50 µm layer thickness. The occlusal surface should be facing the build platform. Patient interfacing areas should face away from the build platform.
+Metal partial frameworks are recommended to be built with a 75 µm layer thickness. The intaglio surface should be facing away from the build platform.

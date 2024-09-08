@@ -1,0 +1,2 @@
+Category is Resins. Third party resin temporary solution for better adhesion without material file.
+To get a better adhesion of the model on the build platform, you can increase the Exposure Time for the Burn-in. Depending on the current default value and how well it works, you could double the current default burn-in exposure time, or if it's below 60 seconds, set it to 60 seconds. If it’s already above 60 seconds and still has detachment issues, then increase the burn-in to 120 seconds.

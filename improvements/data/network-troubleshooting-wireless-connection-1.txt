@@ -1,0 +1,3 @@
+Network troubleshooting for wireless connection first solution
+If you are experiencing network connection issues with a wireless connection, select ‘Settings’ from Main Menu then select 'Wireless Network'. Make sure that wireless network & automatic configuration are enabled.
+If your printer is showing a network name, it is connected to the network.

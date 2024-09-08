@@ -1,0 +1,2 @@
+The category is uncategorised. Print bottom sagging due to insufficient resin.
+Last possibility would be to change the orientation of the model to an upwards position or a tilted angle, this will require less support at the bottom side of the model, and you can avoid the layers sagging down.

@@ -1,0 +1,2 @@
+Category is Misprints & Print Defects. Shrinkage of parts. Reasons 4. 
+Also check which CAD design software is being used. When the dies are designed, is a clearance (horizontal shaft gap) or a cement gap added to the models? For example when using Exocad, a clearance of 20 microns would be necessary. If using 3Shape, then a cement gap of 30 microns (0.030mm) would be necessary.

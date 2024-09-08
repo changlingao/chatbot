@@ -1,0 +1,5 @@
+Testing the encoders
+To check if your encoders are working correctly:
+- Remove the build tray
+- Zero the encoders (https://support.asiga.com/wp-content/uploads/2022/08/zero-position-encoder.gif)
+Run your finger along the edge of the basin. The blue dot should follow your finger and turn red (https://support.asiga.com/wp-content/uploads/2022/08/follow-frame-encoder.gif). If your position encoders are performing as described, they are working perfectly. If you are still experiencing technical difficulties, please launch a support ticket via the following link: https://myaccount.asiga.com/accounts/support/0/.

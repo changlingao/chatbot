@@ -1,0 +1,2 @@
+Category is PRO4K. LED intensity too low due to glitch.
+Could be just a glitch. You could toggle the 4K mode OFF and ON again, go to Control> LED and see if the full light intensity is projected there. If you go to Control> LED now and turn the LED on, you will only see a very faint light coming up. To toggle the 4K mode OFF and ON again, go to the Settings menu, there you will see the 4K, toggle it OFF and then ON again, and then check under Control> LED if you can see bright LED light there. 

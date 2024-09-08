@@ -1,0 +1,5 @@
+General Network troubleshooting wireless
+If you are using a wireless connection, navigate to the wireless network settings. Ensure that the wireless network is enabled, and that automatic configuration is turned on. Then, select your network name and establish your connection by entering the password. Afterward, return to the wireless settings page. If an IP address is displayed, you should be able to connect to your printer.
+Additionally, please check that there is no network cable plugged in, as the software prioritizes the cable connection over the Wi-Fi connection.
+
+

@@ -1,0 +1,6 @@
+﻿Category is General. How to get debug log.
+1. Click File > New Build in composer
+2. Select the printer
+3. Click earth icon to open web browser
+4. Click System Information tab
+5. Right-click Debug Information link and click Save As (the text "Save As" may vary depending on your browser)

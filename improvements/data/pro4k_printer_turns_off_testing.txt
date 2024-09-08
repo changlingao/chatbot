@@ -1,0 +1,2 @@
+Category is PRO4K. Printer turns off testing results.
+Based on your testing results, this will help identify if the shutdown is caused by the heater only, or the projector only. If they are both causing an issue, the problem could be the internal power supply.

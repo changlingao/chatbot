@@ -1,0 +1,5 @@
+Approach failed due to external vibrations
+Asiga 3D printers have sensors located inside the printer. These sensors are very sensitive and pick up the slightest vibrations and changes. Therefore, it is very important to not place the printer next to potential vibration devices. Known culprits of unwanted vibrations include:
+- Aircon units
+- Ultrasonic baths
+- Compressor

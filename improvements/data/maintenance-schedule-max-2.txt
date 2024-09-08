@@ -1,0 +1,6 @@
+Cleaning glass surfaces on the MAX
+You should regularly inspect the mirror underneath the glass basin as this can attract dust, which may cause print defects. If the glass is dirty, you should:
+1. Remove the basin by unscrewing the 4 screws shown in the following image: https://support.asiga.com/wp-content/uploads/2022/08/max-basin-right.jpg
+2. Carefully blow away the dust. Avoid touching the mirror as it may smudge.
+If the mirror is too dirty, consider replacing it.
+For help on how to clean the basin glass, please refer to the following video: https://player.vimeo.com/video/736386770

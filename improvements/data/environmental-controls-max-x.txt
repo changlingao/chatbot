@@ -1,0 +1,7 @@
+Heater controls 
+Asiga 3D printers automatically heat resin to a set temperature while printing. The printer will not wait until the temperature has been reached unless a manual temperature has been set. To manually set the temperature, follow the instructions below:
+1. Select Settings from Main Menu.
+2. Select Temperature from Settings Menu. 
+3. Select desired setpoint from Temperature Menu.
+4. Slide Controller on.
+Heaters will now heat the build chamber.

@@ -1,0 +1,2 @@
+Category is PRO4K. LED intensity too low test 1.
+If the LED is not 80%, go to Maintenance>LED>Power Level, reduce to 80% and save it, see if the error message reappears. Check the HDMI cable is plugged in on both ends, on the projector and the motherboard. Next test is to unplug the HDMI cable from the projector, plug it into a 1080p computer monitor and see if the printer focus image shows. We can see if the computer board is sending the picture and if the HDMI cable is functioning.

@@ -1,0 +1,6 @@
+Network troubleshooting for printer not detected in Composer
+If the printer is connected to the network but not showing up in Composer, check that it is connected to the same network as your printer.
+When you favourite (star) a printer, Composer remembers the IP Address. If the IP Address has changed, that connection can be lost.
+- Unfavourite the printer by clicking on the yellow star.
+- Refresh the Build Properties window.
+Printer should now be visible. If you are still experiencing technical difficulties please launch a support ticket via https://myaccount.asiga.com/accounts/support/0/.
